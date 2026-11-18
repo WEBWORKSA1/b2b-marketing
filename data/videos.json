@@ -1,9 +1,33 @@
 {
- "updated": "2026-11-18T09:11:19.712847+00:00",
+ "updated": "2026-11-18T20:29:14.873000+00:00",
  "items": [
   {
+   "id": "BV1gbguPPgk",
+   "title": "The Marketing Tier List for the AI Era",
+   "channel": "Neil Patel",
+   "date": "2026-11-18T19:08:14+00:00"
+  },
+  {
+   "id": "dBbUhiSqRoE",
+   "title": "A Day in the Life at Gong: Meet Our Director of Product Writing",
+   "channel": "Gong.io",
+   "date": "2026-11-18T19:05:17+00:00"
+  },
+  {
+   "id": "wiOPVnkLtKQ",
+   "title": "Stop Trying to Win the Click",
+   "channel": "Neil Patel",
+   "date": "2026-11-18T13:04:58+00:00"
+  },
+  {
+   "id": "Fk7nWgg2Dms",
+   "title": "Revenue Cloud + Slackbot: Quote-to-Close Deal Approvals in @Slackhq",
+   "channel": "Salesforce Product Center",
+   "date": "2026-11-18T11:00:09+00:00"
+  },
+  {
    "id": "pQ4LS2ClmBI",
-   "title": "Sales Performance Management: Sales Planning, Programs, Maps & Spiff | Salesforce",
+   "title": "Sales Planning, Programs, Maps & Spiff | Salesforce",
    "channel": "Salesforce Product Center",
    "date": "2026-11-17T19:24:24+00:00"
   },
@@ -56,12 +80,6 @@
    "date": "2026-11-17T10:29:31+00:00"
   },
   {
-   "id": "C4ljn-t2LVc",
-   "title": "No-Shows Are Costing You $52K a Year",
-   "channel": "Neil Patel",
-   "date": "2026-11-16T19:05:21+00:00"
-  },
-  {
    "id": "0Jwpln92ro4",
    "title": "Gong AI Data Extractor: Automate CRM Updates With AI",
    "channel": "Gong.io",
@@ -72,12 +90,6 @@
    "title": "Ambient Agents: Your Second Brain for Sales and Service | Dreamforce 2026",
    "channel": "Salesforce Product Center",
    "date": "2026-11-16T15:00:20+00:00"
-  },
-  {
-   "id": "WwxerAXIGHY",
-   "title": "Being Found Isn\u2019t the Same as Being Chosen",
-   "channel": "Neil Patel",
-   "date": "2026-11-16T13:05:05+00:00"
   },
   {
    "id": "YEUDW3IcS7o",
@@ -174,18 +186,6 @@
    "title": "The Cheesecake Factory business should not work",
    "channel": "The Hustle ",
    "date": "2026-11-09T18:00:13+00:00"
-  },
-  {
-   "id": "g_rV4XIPNjg",
-   "title": "Meet Gong Deep Mode & Agent Builder: From Revenue Insights to Action",
-   "channel": "Gong.io",
-   "date": "2026-11-09T16:02:39+00:00"
-  },
-  {
-   "id": "zZUBCwxXWw0",
-   "title": "How Salesforce Uses Data 360 to Power Smarter Marketing | Dreamforce 2026",
-   "channel": "Salesforce Product Center",
-   "date": "2026-11-09T15:00:36+00:00"
   },
   {
    "id": "cycqzqpYY6I",
