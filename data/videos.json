@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-19T07:22:38.572575+00:00",
+ "updated": "2026-11-19T20:34:09.276770+00:00",
  "items": [
+  {
+   "id": "FITK1JK5bg4",
+   "title": "Find orphaned event listeners with DevTools for agents",
+   "channel": "Chrome for Developers",
+   "date": "2026-11-19T20:03:11+00:00"
+  },
+  {
+   "id": "j4fw-n7xxc4",
+   "title": "Why This One Company Is So Good At Making Everything",
+   "channel": "The Hustle ",
+   "date": "2026-11-19T20:00:24+00:00"
+  },
+  {
+   "id": "CnAxiSFQ9GY",
+   "title": "How to choose between DevTools CLI and MCP for coding agents",
+   "channel": "Chrome for Developers",
+   "date": "2026-11-19T20:00:15+00:00"
+  },
+  {
+   "id": "SBfhNxh4UKw",
+   "title": "Social Proof Beats Fast Shipping",
+   "channel": "Neil Patel",
+   "date": "2026-11-19T19:06:19+00:00"
+  },
+  {
+   "id": "BsVtVwfIC5w",
+   "title": "Introducing Copilotforce | Expanding our partnership with @Microsoft",
+   "channel": "Salesforce Product Center",
+   "date": "2026-11-19T16:47:09+00:00"
+  },
+  {
+   "id": "BAbsHO9MabI",
+   "title": "Google's New Rules for Getting Customers",
+   "channel": "Neil Patel",
+   "date": "2026-11-19T13:00:11+00:00"
+  },
   {
    "id": "BV1gbguPPgk",
    "title": "The Marketing Tier List for the AI Era",
@@ -30,18 +66,6 @@
    "title": "5 SEO Habits to Drop Today",
    "channel": "Neil Patel",
    "date": "2026-11-17T19:06:06+00:00"
-  },
-  {
-   "id": "m6iW7-IVR9w",
-   "title": "How to Lower the Cost of Your Google and Meta Ads While Increasing Sales",
-   "channel": "Neil Patel",
-   "date": "2026-11-17T17:06:33+00:00"
-  },
-  {
-   "id": "KR8L9O9gWPI",
-   "title": "Write Proof, Not More Pages",
-   "channel": "Neil Patel",
-   "date": "2026-11-17T13:05:09+00:00"
   },
   {
    "id": "xRkS9a9Wv7A",
@@ -140,12 +164,6 @@
    "date": "2026-11-11T18:00:18+00:00"
   },
   {
-   "id": "3EaauiF9hG8",
-   "title": "How Salesforce Scales its Agentic Engine with Data 360 | Dreamforce 2026",
-   "channel": "Salesforce Product Center",
-   "date": "2026-11-11T14:30:15+00:00"
-  },
-  {
    "id": "SwB4Vocswiw",
    "title": "How to Track Brand Visibility in Moz AI Visibility",
    "channel": "Moz",
@@ -186,24 +204,6 @@
    "title": "Meet Gong Deep Mode & Agent Builder: From Revenue Insights to Action",
    "channel": "Gong.io",
    "date": "2026-11-09T16:02:39+00:00"
-  },
-  {
-   "id": "cycqzqpYY6I",
-   "title": "Subway and Arby\u2019s Sauces Come From the Same Factory",
-   "channel": "The Hustle ",
-   "date": "2026-11-07T18:00:27+00:00"
-  },
-  {
-   "id": "StAhZk_YVkE",
-   "title": "Memory debugging with agents",
-   "channel": "Chrome for Developers",
-   "date": "2026-11-05T20:03:47+00:00"
-  },
-  {
-   "id": "G-zNSCp1UGo",
-   "title": "Modern Web Guidance in your AI workflow: Interactive content in 3D scenes",
-   "channel": "Chrome for Developers",
-   "date": "2026-11-05T17:00:51+00:00"
   },
   {
    "id": "oWrVGjks_cI",
