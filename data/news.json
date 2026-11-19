@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-18T20:29:10.322776+00:00",
+ "updated": "2026-11-19T07:22:32.569189+00:00",
  "items": [
+  {
+   "title": "TLS-RPT Builder: Get Daily Reports When Email to Your Domain Fails TLS",
+   "link": "https://martech.zone/tls-rpt-builder/",
+   "source": "Martech Zone",
+   "date": "2026-11-19T04:00:40+00:00",
+   "summary": "When another company's mail server can't deliver to you securely, you usually never find out. The failure happens on their side: an expired certificate on one of your MX hosts, a security gateway\u2026"
+  },
+  {
+   "title": "MTA-STS Builder: Require Encrypted Email Delivery and Stop STARTTLS Downgrade Attacks",
+   "link": "https://martech.zone/mta-sts-builder/",
+   "source": "Martech Zone",
+   "date": "2026-11-19T03:58:40+00:00",
+   "summary": "Every time someone emails your domain, the sending server and your mail server negotiate in the open. The sender asks whether you support encryption, your server says yes, and the two upgrade the\u2026"
+  },
+  {
+   "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-18T22:26:21+00:00",
+   "summary": "OpenAI's GPT-6.2 guide says Astra writes more concisely by default, suggests revisiting \"be concise\" prompts and flags an API change for edited history. The post OpenAI Publishes Prompting Guidance\u2026"
+  },
   {
    "title": "Robots.txt Guide \u2013 Best Practices For Search & AI Crawlers via @sejournal, @vahandev",
    "link": "https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/",
@@ -93,32 +114,11 @@
    "summary": "A marketing campaign needs more than an attractive video. It needs to introduce an idea, help people understand an offer, and give them a reason to take a relevant next step. Seedance 2.5 Flash can\u2026"
   },
   {
-   "title": "Seamless: Turn Buying Signals Into Booked Meetings With AI Agents and Verified Contact Data",
-   "link": "https://martech.zone/seamless-ai-buying-signals-ai-sales-agents/",
-   "source": "Martech Zone",
-   "date": "2026-11-18T13:30:00+00:00",
-   "summary": "Most sales teams no longer struggle to find an email address. They struggle to know when a prospect is worth contacting and what to say once they do. Seamless has grown from a contact lookup tool\u2026"
-  },
-  {
    "title": "Google Ads AI Max Is Making More Decisions For You \u2013 Here\u2019s What To Audit Now via @sejournal, @brookeosmundson",
    "link": "https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/",
    "source": "Search Engine Journal",
    "date": "2026-11-18T13:00:42+00:00",
    "summary": "Audit Google Ads AI Max settings to catch unwanted searches, review generated ad copy, and keep landing pages aligned with campaign goals. The post Google Ads AI Max Is Making More Decisions For You\u2026"
-  },
-  {
-   "title": "ReachStream: B2B Contact Data, Email Verification, and LinkedIn Prospecting in One Platform",
-   "link": "https://martech.zone/reachstream-b2b-contact-data-email-verification/",
-   "source": "Martech Zone",
-   "date": "2026-11-18T13:00:00+00:00",
-   "summary": "Sales teams rarely lose deals because they lack a pitch. They lose them because the list is wrong: the contact left the company, the email bounces, or the account never matched the ideal customer in\u2026"
-  },
-  {
-   "title": "Google Explains How To Avoid CDN Migration SEO Problems via @sejournal, @martinibuster",
-   "link": "https://www.searchenginejournal.com/google-explains-how-to-avoid-cdn-migration-seo-problems/597888/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-18T12:16:03+00:00",
-   "summary": "Google explains how to get the best SEO outcome from a CDN migration and avoid unexpected crawling problems. The post Google Explains How To Avoid CDN Migration SEO Problems appeared first on Search\u2026"
   },
   {
    "title": "4 Reasons to Read DISCOVERABLE by Tim Soulo",
