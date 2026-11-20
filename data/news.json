@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-19T20:34:01.249708+00:00",
+ "updated": "2026-11-20T07:12:44.209960+00:00",
  "items": [
+  {
+   "title": "Intuit finds a buyer for Mailchimp in Bending Spoons",
+   "link": "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
+   "source": "MarTech",
+   "date": "2026-11-20T03:46:55+00:00",
+   "summary": "Intuit\u2019s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable. The post Intuit finds a buyer for Mailchimp in\u2026"
+  },
+  {
+   "title": "Enterprise Ecommerce Migration Without Losing Orders",
+   "link": "https://martech.zone/enterprise-ecommerce-migration-without-losing-orders/",
+   "source": "Martech Zone",
+   "date": "2026-11-19T23:34:44+00:00",
+   "summary": "Protect orders during an enterprise ecommerce migration by keeping identifiers stable, reconciling payments and refunds, and staging a controlled cutover."
+  },
   {
    "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
    "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
@@ -100,13 +114,6 @@
    "summary": "Chatting with a virtual customer is one thing. Anticipating how they'd act in unfamiliar situations requires a deeper understanding of human behavior. The post How psychology can make AI-powered\u2026"
   },
   {
-   "title": "TLS-RPT Builder: Get Daily Reports When Email to Your Domain Fails TLS",
-   "link": "https://martech.zone/tls-rpt-builder/",
-   "source": "Martech Zone",
-   "date": "2026-11-19T04:00:40+00:00",
-   "summary": "When another company's mail server can't deliver to you securely, you usually never find out. The failure happens on their side: an expired certificate on one of your MX hosts, a security gateway\u2026"
-  },
-  {
    "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
    "source": "Search Engine Journal",
@@ -121,7 +128,7 @@
    "summary": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately. The post Robots.txt Guide \u2013 Best Practices For\u2026"
   },
   {
-   "title": "Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade via @sejournal, @brookeosmundson",
+   "title": "Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically via @sejournal, @brookeosmundson",
    "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
    "source": "Search Engine Journal",
    "date": "2026-11-18T18:19:49+00:00",
@@ -203,13 +210,6 @@
    "source": "MarTech",
    "date": "2026-11-16T22:49:50+00:00",
    "summary": "Can anyone prove ROI in AI search? Bloomreach\u2019s AthenaHQ acquisition hopes to connect conversational discovery directly to customer revenue. The post Bloomreach goes back to its roots with AthenaHQ\u2026"
-  },
-  {
-   "title": "Beyond deployment: How to lead the change and make AI adoption stick",
-   "link": "https://martech.org/beyond-deployment-how-to-lead-the-change-and-make-ai-adoption-stick/",
-   "source": "MarTech",
-   "date": "2026-11-16T14:51:52+00:00",
-   "summary": "Tool adoption stalls when teams feel unsafe. At the November MarTech Conference, we discussed how to turn AI apprehension into confident, high-value execution. The post Beyond deployment: How to\u2026"
   },
   {
    "title": "Claude AI for marketing: How teams use it with HubSpot",
