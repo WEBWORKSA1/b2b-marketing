@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-20T07:12:49.933352+00:00",
+ "updated": "2026-11-20T20:14:13.713682+00:00",
  "items": [
+  {
+   "id": "erZaHYnx_xA",
+   "title": "Stop Building Automations Box by Box",
+   "channel": "Neil Patel",
+   "date": "2026-11-20T19:03:49+00:00"
+  },
+  {
+   "id": "tXZhoBOlzzY",
+   "title": "Why 9 seconds is too long on a customer call",
+   "channel": "Salesforce Product Center",
+   "date": "2026-11-20T17:27:13+00:00"
+  },
+  {
+   "id": "GkRaJHxtZqU",
+   "title": "AI Mode Doesn\u2019t Run Just One Search",
+   "channel": "Neil Patel",
+   "date": "2026-11-20T13:05:11+00:00"
+  },
   {
    "id": "FITK1JK5bg4",
    "title": "Find orphaned event listeners with DevTools for agents",
@@ -44,12 +62,6 @@
    "date": "2026-11-18T19:08:14+00:00"
   },
   {
-   "id": "wiOPVnkLtKQ",
-   "title": "Stop Trying to Win the Click",
-   "channel": "Neil Patel",
-   "date": "2026-11-18T13:04:58+00:00"
-  },
-  {
    "id": "Fk7nWgg2Dms",
    "title": "Revenue Cloud + Slackbot: Quote-to-Close Deal Approvals in @Slackhq",
    "channel": "Salesforce Product Center",
@@ -60,12 +72,6 @@
    "title": "Sales Planning, Programs, Maps & Spiff | Salesforce",
    "channel": "Salesforce Product Center",
    "date": "2026-11-17T19:24:24+00:00"
-  },
-  {
-   "id": "k_Cvk7b2vwY",
-   "title": "5 SEO Habits to Drop Today",
-   "channel": "Neil Patel",
-   "date": "2026-11-17T19:06:06+00:00"
   },
   {
    "id": "xRkS9a9Wv7A",
@@ -150,12 +156,6 @@
    "title": "Agentic web development with Modern Web Guidance and Chrome DevTools for agents",
    "channel": "Chrome for Developers",
    "date": "2026-11-12T16:30:22+00:00"
-  },
-  {
-   "id": "srOofaB0rvU",
-   "title": "Transforming Sales in the Agentic Enterprise with Agentforce and Slack | Dreamforce 2026",
-   "channel": "Salesforce Product Center",
-   "date": "2026-11-12T14:00:18+00:00"
   },
   {
    "id": "PWum0ZtuVgA",

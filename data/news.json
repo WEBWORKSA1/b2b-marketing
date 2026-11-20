@@ -1,6 +1,76 @@
 {
- "updated": "2026-11-20T07:12:44.209960+00:00",
+ "updated": "2026-11-20T20:14:08.358706+00:00",
  "items": [
+  {
+   "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc",
+   "link": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-20T20:00:34+00:00",
+   "summary": "Scaled AI content, fake authors, and self-promotional listicles work until they don\u2019t. Here\u2019s why putting real human experts first keeps paying off in search. The post Why Building Trust Through\u2026"
+  },
+  {
+   "title": "Call My Leads With No Engineering Team: What RevOps Leaders Asked Before Buying (2026)",
+   "link": "https://martech.zone/call-my-leads-with-no-engineering-team-what-revops-leaders-asked-before-buying-2026/",
+   "source": "Martech Zone",
+   "date": "2026-11-20T19:46:12+00:00",
+   "summary": "Learn the five questions RevOps leaders ask before they pick a tool to call leads with no engineering team, and how five AI calling options compare."
+  },
+  {
+   "title": "Cron Builder: Build or Decode a Cron Expression and See Exactly When It Runs",
+   "link": "https://martech.zone/cron-builder/",
+   "source": "Martech Zone",
+   "date": "2026-11-20T19:11:08+00:00",
+   "summary": "Key Takeaways Paste a 5-field cron expression, a 6-field expression with seconds, or a macro such as @daily to load it into the form, or start from a preset. The Simple tab sets common schedules\u2026"
+  },
+  {
+   "title": "The Future of Retail: Consumer Trends That Will Reshape Shopping in 2027",
+   "link": "https://martech.zone/bright-future-retail/",
+   "source": "Martech Zone",
+   "date": "2026-11-20T16:25:08+00:00",
+   "summary": "Key Takeaways Online and in-store spending have settled into a near even split, so growth in 2027 will come from connecting channels rather than moving shoppers from one to the other. Stores will\u2026"
+  },
+  {
+   "title": "Google Told CMOs To Stop \u2018Top 10\u2019 Listicles. Here\u2019s Its Example via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-20T16:17:43+00:00",
+   "summary": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise. The post Google Told CMOs To Stop \u2018Top 10\u2019 Listicles. Here\u2019s Its Example appeared\u2026"
+  },
+  {
+   "title": "A Charity Rescue Dog Outscored Amazon\u2019s Christmas Ad \u2013 PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
+   "link": "https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-20T15:00:09+00:00",
+   "summary": "Give holiday Google Ads a stronger story, using DAIVID's ranking of 75 Christmas ads where Dogs Trust outscored Amazon. The post A Charity Rescue Dog Outscored Amazon\u2019s Christmas Ad \u2013 PPC Accounts\u2026"
+  },
+  {
+   "title": "B2B events have an ROI problem before the show starts",
+   "link": "https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/",
+   "source": "MarTech",
+   "date": "2026-11-20T13:51:00+00:00",
+   "summary": "Most teams know which accounts they want to reach, but weak meeting goals, CRM tagging, and follow-up make event ROI harder to prove. The post B2B events have an ROI problem before the show starts\u2026"
+  },
+  {
+   "title": "AI search volatility: What it means for your traffic",
+   "link": "https://blog.hubspot.com/marketing/ai-search-volatility",
+   "source": "HubSpot Marketing Blog",
+   "date": "2026-11-20T13:30:06+00:00",
+   "summary": "For SEO managers, volatility is nothing new (Google has been hitting us with algorithm update surprises for years). But AI search volatility adds a new layer of complexity. Plenty of teams have a\u2026"
+  },
+  {
+   "title": "AI Citations: What To Check Before Reacting To A Lost One via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-20T13:00:00+00:00",
+   "summary": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page. The post AI Citations: What To Check Before Reacting To A\u2026"
+  },
+  {
+   "title": "Give holiday shoppers more value without relying on discounts",
+   "link": "https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/",
+   "source": "MarTech",
+   "date": "2026-11-20T12:56:00+00:00",
+   "summary": "From the first promotional email to the moment a package arrives, every interaction is a chance to make a purchase feel worth the price. The post Give holiday shoppers more value without relying on\u2026"
+  },
   {
    "title": "Intuit finds a buyer for Mailchimp in Bending Spoons",
    "link": "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
@@ -58,27 +128,6 @@
    "summary": "Key Takeaways A healthy content library assigns every piece one primary role: direct response, authority, competitive, engagement, search and answer, or evergreen. Each role serves a different\u2026"
   },
   {
-   "title": "Human-Centric B2B Outreach: 7 Techniques That Still Win Replies in the AI Era",
-   "link": "https://martech.zone/empathy-communication-b2b-lead-generation/",
-   "source": "Martech Zone",
-   "date": "2026-11-19T15:17:02+00:00",
-   "summary": "Key Takeaways Most B2B buyers now prefer to research on their own, and many use AI to do it, so unsolicited outreach has to earn its place by being relevant and genuinely helpful. Buyers usually\u2026"
-  },
-  {
-   "title": "How to Optimize Knowledge Base Articles for Search, Support, and AI Agents",
-   "link": "https://martech.zone/how-to-optimize-knowledge-base-article/",
-   "source": "Martech Zone",
-   "date": "2026-11-19T15:17:02+00:00",
-   "summary": "Key Takeaways Your knowledge base now serves three audiences at once: customers who search, search engines that rank and summarize, and AI support agents that retrieve your articles to answer\u2026"
-  },
-  {
-   "title": "How Sales Teams Can Publish Content That Helps Close Deals",
-   "link": "https://martech.zone/should-sales-teams-blog/",
-   "source": "Martech Zone",
-   "date": "2026-11-19T15:17:02+00:00",
-   "summary": "Key Takeaways Buyers complete most of their research before they speak with a seller, and AI assistants now shape the shortlist they bring to that first call. Sellers hear the objections, risks, and\u2026"
-  },
-  {
    "title": "Your WordPress Sitemap Isn\u2019t Broken \u2013 Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
    "link": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
    "source": "Search Engine Journal",
@@ -100,39 +149,11 @@
    "summary": "If you\u2019ve yet to understand Claude Cowork skills, let me help you out: Claude Cowork is a mode that can access your desktop files and complete tasks for you. A skill is a set of instructions that\u2026"
   },
   {
-   "title": "WordPress 7.2 Arrives Dec. 8 \u2013 Last-Minute Changes Still Being Made via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/wordpress-7-2-seo-ai-changes/597616/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-19T13:00:50+00:00",
-   "summary": "WordPress 7.2 plans a default-on random post redirect with no settings toggle. Here's what changes, what can wait, and what's still undecided before release. The post WordPress 7.2 Arrives Dec. 8 \u2013\u2026"
-  },
-  {
    "title": "How psychology can make AI-powered customer personas more useful",
    "link": "https://martech.org/how-psychology-can-make-ai-powered-customer-personas-more-useful/",
    "source": "MarTech",
    "date": "2026-11-19T12:42:00+00:00",
    "summary": "Chatting with a virtual customer is one thing. Anticipating how they'd act in unfamiliar situations requires a deeper understanding of human behavior. The post How psychology can make AI-powered\u2026"
-  },
-  {
-   "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-18T22:26:21+00:00",
-   "summary": "OpenAI's GPT-6.2 guide says Astra writes more concisely by default, suggests revisiting \"be concise\" prompts and flags an API change for edited history. The post OpenAI Publishes Prompting Guidance\u2026"
-  },
-  {
-   "title": "Robots.txt Guide \u2013 Best Practices For Search & AI Crawlers via @sejournal, @vahandev",
-   "link": "https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-18T20:00:31+00:00",
-   "summary": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately. The post Robots.txt Guide \u2013 Best Practices For\u2026"
-  },
-  {
-   "title": "Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically via @sejournal, @brookeosmundson",
-   "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-18T18:19:49+00:00",
-   "summary": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft\u2026"
   },
   {
    "title": "Barnacle SEO: Spam Risk or Smart Marketing?",
@@ -191,25 +212,11 @@
    "summary": "What you need to know about marketing on Reddit. Updated with details on the new Reddit Reviews feature. The post Marketing on Reddit: What you need to know appeared first on MarTech ."
   },
   {
-   "title": "When AI agents evaluate B2B vendors, what earns consideration?",
-   "link": "https://martech.org/when-ai-agents-evaluate-b2b-vendors-what-earns-consideration/",
-   "source": "MarTech",
-   "date": "2026-11-17T12:46:00+00:00",
-   "summary": "Similar B2B solutions need more than competitive features. Clear product information and credible evidence can turn AI discovery into buyer consideration. The post When AI agents evaluate B2B\u2026"
-  },
-  {
    "title": "22 Black Friday Marketing Strategies to Maximize Your Profits",
    "link": "https://moz.com/blog/black-friday-marketing-strategies",
    "source": "Moz Blog",
    "date": "2026-11-17T08:00:00+00:00",
    "summary": "Discover effective Black Friday marketing strategies to boost your profits. Learn actionable tips to stand out and succeed this shopping season."
-  },
-  {
-   "title": "Bloomreach goes back to its roots with AthenaHQ acquisition",
-   "link": "https://martech.org/bloomreach-goes-back-to-its-roots-with-athenahq-acquisition/",
-   "source": "MarTech",
-   "date": "2026-11-16T22:49:50+00:00",
-   "summary": "Can anyone prove ROI in AI search? Bloomreach\u2019s AthenaHQ acquisition hopes to connect conversational discovery directly to customer revenue. The post Bloomreach goes back to its roots with AthenaHQ\u2026"
   },
   {
    "title": "Claude AI for marketing: How teams use it with HubSpot",
@@ -280,13 +287,6 @@
    "source": "HubSpot Marketing Blog",
    "date": "2026-11-09T13:05:05+00:00",
    "summary": "Picture two shoppers. One asks ChatGPT, \u201cAre Nikes good shoes for marathon runners?\u201d The other asks, \u201cWhat\u2019s the best running shoe?\u201d Both want top-notch athletic shoes. Only one specifically wants\u2026"
-  },
-  {
-   "title": "Obstacles in marketing automation and how to fix them [2026]",
-   "link": "https://blog.hubspot.com/marketing/marketing-automation-challenges",
-   "source": "HubSpot Marketing Blog",
-   "date": "2026-11-06T15:45:05+00:00",
-   "summary": "Most obstacles in marketing automation aren\u2019t actually automation problems. 86.4% of marketing teams now use AI somewhere in their workflows. Yet, measuring ROI still tops the challenge list at 33%,\u2026"
   },
   {
    "title": "How To Report SEO Performance When Analytics Data Is Incomplete",
