@@ -1,6 +1,41 @@
 {
- "updated": "2026-11-20T20:14:08.358706+00:00",
+ "updated": "2026-11-21T07:03:47.497218+00:00",
  "items": [
+  {
+   "title": "The History of Text Messaging: From the First SMS to RCS and AI Agents",
+   "link": "https://martech.zone/history-of-text-messaging/",
+   "source": "Martech Zone",
+   "date": "2026-11-20T21:08:15+00:00",
+   "summary": "On December 3, 1992, a 22-year-old programmer named Neil Papworth typed two words into a computer and sent them to a mobile phone on the Vodafone network in the U.K. The message was Merry Christmas,\u2026"
+  },
+  {
+   "title": "Amazon Web Services by the Numbers: Scale, Share, and the AI Workload Shift",
+   "link": "https://martech.zone/amazon-web-services-aws-stats/",
+   "source": "Martech Zone",
+   "date": "2026-11-20T21:03:39+00:00",
+   "summary": "Amazon Web Services (AWS) has a rare problem for a market leader: it is growing faster than it has in nearly five years, and it is still losing share. That is not a contradiction once you look at\u2026"
+  },
+  {
+   "title": "The Best Mobile Apps for Taking, Editing, and Touching Up Photos",
+   "link": "https://martech.zone/top-mobile-photo-apps/",
+   "source": "Martech Zone",
+   "date": "2026-11-20T20:47:41+00:00",
+   "summary": "The camera in your pocket is already better than most of the gear I carried a decade ago, and the apps around it have caught up. AI now handles jobs that used to take a practiced hand: lifting a\u2026"
+  },
+  {
+   "title": "Good Bots, Bad Bots, and AI Agents: How to Identify Who\u2019s Really Visiting Your Site",
+   "link": "https://martech.zone/identify-bots-ai-agents/",
+   "source": "Martech Zone",
+   "date": "2026-11-20T20:27:13+00:00",
+   "summary": "Every few weeks, someone running a SaaS platform asks me why their server bill keeps climbing while their analytics look flat. The answer is almost always the same. A growing share of the requests\u2026"
+  },
+  {
+   "title": "Salesforce CEO Says \u2018Goodbye SEO.\u2019 Salesforce\u2019s SEO Guide Disagrees via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-20T20:20:52+00:00",
+   "summary": "Marc Benioff promoted Palmata by saying goodbye to SEO, while Salesforce\u2019s own guide says SEO remains the foundation. The post Salesforce CEO Says \u2018Goodbye SEO.\u2019 Salesforce\u2019s SEO Guide Disagrees\u2026"
+  },
   {
    "title": "Why Building Trust Through Real People Stands The Test Of Time In SEO & AI Search via @sejournal, @lilyraynyc",
    "link": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
@@ -30,11 +65,11 @@
    "summary": "Key Takeaways Online and in-store spending have settled into a near even split, so growth in 2027 will come from connecting channels rather than moving shoppers from one to the other. Stores will\u2026"
   },
   {
-   "title": "Google Told CMOs To Stop \u2018Top 10\u2019 Listicles. Here\u2019s Its Example via @sejournal, @MattGSouthern",
+   "title": "Google\u2019s \u2018Top 10\u2019 Line For CMOs Points At Generic Tips Posts via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
    "source": "Search Engine Journal",
    "date": "2026-11-20T16:17:43+00:00",
-   "summary": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise. The post Google Told CMOs To Stop \u2018Top 10\u2019 Listicles. Here\u2019s Its Example appeared\u2026"
+   "summary": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise. The post Google\u2019s \u2018Top 10\u2019 Line For CMOs Points At Generic Tips Posts appeared first\u2026"
   },
   {
    "title": "A Charity Rescue Dog Outscored Amazon\u2019s Christmas Ad \u2013 PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
@@ -72,6 +107,13 @@
    "summary": "From the first promotional email to the moment a package arrives, every interaction is a chance to make a purchase feel worth the price. The post Give holiday shoppers more value without relying on\u2026"
   },
   {
+   "title": "Create High-Impact Content Using Backward Design \u2014 Whiteboard Friday",
+   "link": "https://moz.com/blog/high-impact-content-using-backward-design-whiteboard-friday",
+   "source": "Moz Blog",
+   "date": "2026-11-20T08:00:00+00:00",
+   "summary": "Join Purna in this week\u2019s episode of Whiteboard Friday as she reveals how to create high-impact content using backward design, a strategic approach that prioritizes measurement to achieve better\u2026"
+  },
+  {
    "title": "Intuit finds a buyer for Mailchimp in Bending Spoons",
    "link": "https://martech.org/intuit-finds-a-buyer-for-mailchimp-in-bending-spoons/",
    "source": "MarTech",
@@ -100,46 +142,11 @@
    "summary": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift. The post Google\u2019s Next Update Won\u2019t Touch The Index, And\u2026"
   },
   {
-   "title": "Free QR Code Generator With Logo, Colors, and PNG, SVG, or PDF Export",
-   "link": "https://martech.zone/qr-code-builder/",
-   "source": "Martech Zone",
-   "date": "2026-11-19T16:52:58+00:00",
-   "summary": "Create a free QR code with your logo or a site icon, live color contrast checks, UTM tracking, and downloads in PNG, SVG, JPG, WebP, or PDF."
-  },
-  {
-   "title": "A 6-Step Plan to Optimize Mobile Checkout and Recover More Orders",
-   "link": "https://martech.zone/optimize-mobile-checkout/",
-   "source": "Martech Zone",
-   "date": "2026-11-19T15:45:06+00:00",
-   "summary": "Key Takeaways Most online carts are abandoned before purchase, and most of the reasons shoppers give are fixable with better checkout design. Phones now carry the majority of online holiday\u2026"
-  },
-  {
-   "title": "How to Calculate MarTech ROI Without Inflated Claims",
-   "link": "https://martech.zone/return-on-investment/",
-   "source": "Martech Zone",
-   "date": "2026-11-19T15:37:27+00:00",
-   "summary": "Key Takeaways ROI on marketing technology is a curve over the full lifecycle, not a snapshot taken at the peak. Define the time horizon before you calculate anything. True cost goes far beyond the\u2026"
-  },
-  {
-   "title": "6 Content Roles Every Library Needs to Match Audience Intent",
-   "link": "https://martech.zone/compelling-content-roles/",
-   "source": "Martech Zone",
-   "date": "2026-11-19T15:32:49+00:00",
-   "summary": "Key Takeaways A healthy content library assigns every piece one primary role: direct response, authority, competitive, engagement, search and answer, or evergreen. Each role serves a different\u2026"
-  },
-  {
    "title": "Your WordPress Sitemap Isn\u2019t Broken \u2013 Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
    "link": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
    "source": "Search Engine Journal",
    "date": "2026-11-19T15:00:06+00:00",
    "summary": "Chrome dropping XSLT makes WordPress sitemaps display as raw XML. Skip the unnecessary fixes and use Google Search Console to verify crawlers still read them. The post Your WordPress Sitemap Isn\u2019t\u2026"
-  },
-  {
-   "title": "WordPress 7.1.5 Security Release Fixes 18 Vulnerabilities via @sejournal, @martinibuster",
-   "link": "https://www.searchenginejournal.com/wordpress-7-1-5-security-release-fixes-18-vulnerabilities/598080/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-19T14:40:05+00:00",
-   "summary": "WordPress 7.1.5 fixes 18 vulnerabilities and adds two security improvements, including an unauthenticated flaw that could lead to RCE. The post WordPress 7.1.5 Security Release Fixes 18\u2026"
   },
   {
    "title": "Claude Cowork skills: How they work and what to build",
@@ -329,13 +336,6 @@
    "source": "Moz Blog",
    "date": "2026-10-22T07:00:00+00:00",
    "summary": "Moz partners with Profound to deliver industry-leading SEO metrics and citation data directly inside Profound\u2019s AI marketing platform."
-  },
-  {
-   "title": "From Prompts to Priorities: A Practical AI Visibility Workflow",
-   "link": "https://moz.com/blog/practical-ai-visibility-workflow",
-   "source": "Moz Blog",
-   "date": "2026-10-20T07:00:00+00:00",
-   "summary": "Move beyond basic prompt metrics and transform AI visibility data into business priorities. Learn how to evaluate LLM recommendations, track influential citations, and identify key growth\u2026"
   },
   {
    "title": "2026 Marketing Technology Landscape Supergraphic: Peak Martech Achieved! (Maybe)",

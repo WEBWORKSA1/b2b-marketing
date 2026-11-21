@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-20T20:14:13.713682+00:00",
+ "updated": "2026-11-21T07:03:51.731412+00:00",
  "items": [
+  {
+   "id": "SiXka_MUmbk",
+   "title": "How to ship an in-browser image generator in under 50 MB",
+   "channel": "Chrome for Developers",
+   "date": "2026-11-20T22:16:04+00:00"
+  },
+  {
+   "id": "wn08Fr8CcBU",
+   "title": "Real-time multi-camera biomechanics on the web",
+   "channel": "Chrome for Developers",
+   "date": "2026-11-20T22:13:27+00:00"
+  },
+  {
+   "id": "kSnoPNB5ND8",
+   "title": "The state of Transformers.js: What shipped, what's next",
+   "channel": "Chrome for Developers",
+   "date": "2026-11-20T22:10:25+00:00"
+  },
+  {
+   "id": "nAeiMBLgQOA",
+   "title": "WebLLM 2.0: Engineering browser AI across execution, interface, and storage boundaries",
+   "channel": "Chrome for Developers",
+   "date": "2026-11-20T22:07:48+00:00"
+  },
+  {
+   "id": "SI1gOfeqqEg",
+   "title": "Harnessing on-device AI: What\u2019s new in web APIs",
+   "channel": "Chrome for Developers",
+   "date": "2026-11-20T22:03:41+00:00"
+  },
+  {
+   "id": "jKSkOfbvXyA",
+   "title": "Automate Sales Handoffs with Gong AI Agents // Gong on Gong",
+   "channel": "Gong.io",
+   "date": "2026-11-20T20:45:10+00:00"
+  },
   {
    "id": "erZaHYnx_xA",
    "title": "Stop Building Automations Box by Box",
@@ -20,22 +56,10 @@
    "date": "2026-11-20T13:05:11+00:00"
   },
   {
-   "id": "FITK1JK5bg4",
-   "title": "Find orphaned event listeners with DevTools for agents",
-   "channel": "Chrome for Developers",
-   "date": "2026-11-19T20:03:11+00:00"
-  },
-  {
    "id": "j4fw-n7xxc4",
    "title": "Why This One Company Is So Good At Making Everything",
    "channel": "The Hustle ",
    "date": "2026-11-19T20:00:24+00:00"
-  },
-  {
-   "id": "CnAxiSFQ9GY",
-   "title": "How to choose between DevTools CLI and MCP for coding agents",
-   "channel": "Chrome for Developers",
-   "date": "2026-11-19T20:00:15+00:00"
   },
   {
    "id": "SBfhNxh4UKw",
@@ -134,28 +158,10 @@
    "date": "2026-11-14T16:00:32+00:00"
   },
   {
-   "id": "1xt6KF6_yac",
-   "title": "Life at Gong: Meet the People, Culture & Careers Behind Gong",
-   "channel": "Gong.io",
-   "date": "2026-11-13T17:33:45+00:00"
-  },
-  {
-   "id": "ay9AKuCEqvw",
-   "title": "How to find memory leaks with Chrome DevTools for agents",
-   "channel": "Chrome for Developers",
-   "date": "2026-11-12T20:02:39+00:00"
-  },
-  {
    "id": "t_YB2txQRFQ",
    "title": "He\u2019s Betting Against Uber\u2019s Entire Business Model",
    "channel": "The Hustle ",
    "date": "2026-11-12T20:00:07+00:00"
-  },
-  {
-   "id": "mogYbZ4CFB8",
-   "title": "Agentic web development with Modern Web Guidance and Chrome DevTools for agents",
-   "channel": "Chrome for Developers",
-   "date": "2026-11-12T16:30:22+00:00"
   },
   {
    "id": "PWum0ZtuVgA",
@@ -186,12 +192,6 @@
    "title": "How to Set Up A Moz AI Visibility Dashboard",
    "channel": "Moz",
    "date": "2026-11-10T18:48:34+00:00"
-  },
-  {
-   "id": "PsrHq5F_BAc",
-   "title": "Modern Web Guidance in your AI workflow: What is Modern Web Guidance?",
-   "channel": "Chrome for Developers",
-   "date": "2026-11-10T16:30:59+00:00"
   },
   {
    "id": "CJLcI88UlIs",
