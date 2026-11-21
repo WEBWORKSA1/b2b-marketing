@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-21T07:03:47.497218+00:00",
+ "updated": "2026-11-21T19:12:52.467673+00:00",
  "items": [
+  {
+   "title": "Tech Stack Lookup: What Is That Website Built With?",
+   "link": "https://martech.zone/website-tech-stack-lookup/",
+   "source": "Martech Zone",
+   "date": "2026-11-21T18:12:40+00:00",
+   "summary": "Key Takeaways Enter a domain and the lookup checks public signals in six steps: the domain registry, DNS records, IP ownership, the home page, the site's Google Tag Manager (GTM) container, and its\u2026"
+  },
+  {
+   "title": "ComfyUI: Repeatable AI Image and Video Workflows for Marketing Teams",
+   "link": "https://martech.zone/comfyui-ai-image-video-workflows-marketing-teams/",
+   "source": "Martech Zone",
+   "date": "2026-11-21T16:31:12+00:00",
+   "summary": "Key Takeaways ComfyUI is an open-source engine for building artificial intelligence (AI) image, video, audio, and 3D workflows by connecting visible nodes on a canvas, so every step is inspectable\u2026"
+  },
+  {
+   "title": "Grok Bot: Why I Run My Business on AI Teammates Instead of a DIY Agent Stack",
+   "link": "https://martech.zone/grok-bot-hand-real-work-to-ai-teammates-that-never-clock-out/",
+   "source": "Martech Zone",
+   "date": "2026-11-21T15:35:07+00:00",
+   "summary": "Every AI assistant I have used can answer a question. The hard part of running a business is never the answer. It is the forty small steps after it: find the email, check the calendar, log in to a\u2026"
+  },
+  {
+   "title": "Email Marketing Trends for 2027: AI Agents Read Your Email First",
+   "link": "https://martech.zone/email-marketing-trends/",
+   "source": "Martech Zone",
+   "date": "2026-11-21T15:17:17+00:00",
+   "summary": "I was a product manager at an ESP and have been sending and studying email for a long time. The biggest change I see heading into 2027 has nothing to do with templates or send times. It is about who\u2026"
+  },
+  {
+   "title": "CSS Unit Converter: Convert px, rem, em, pt, and Viewport Units, or Rewrite a Whole Stylesheet",
+   "link": "https://martech.zone/css-unit-converter/",
+   "source": "Martech Zone",
+   "date": "2026-11-21T13:16:24+00:00",
+   "summary": "Key Takeaways CSS length units fall into three groups: absolute units such as px, pt, pc, in, cm, and mm; font-relative units such as rem, em, and percent; and viewport units such as vw, vh, vmin,\u2026"
+  },
+  {
+   "title": "WordPress Random Redirects, Branded API Data & CDN Advice \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-21T13:00:00+00:00",
+   "summary": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents. The post WordPress Random Redirects,\u2026"
+  },
   {
    "title": "The History of Text Messaging: From the First SMS to RCS and AI Agents",
    "link": "https://martech.zone/history-of-text-messaging/",
@@ -23,13 +65,6 @@
    "summary": "The camera in your pocket is already better than most of the gear I carried a decade ago, and the apps around it have caught up. AI now handles jobs that used to take a practiced hand: lifting a\u2026"
   },
   {
-   "title": "Good Bots, Bad Bots, and AI Agents: How to Identify Who\u2019s Really Visiting Your Site",
-   "link": "https://martech.zone/identify-bots-ai-agents/",
-   "source": "Martech Zone",
-   "date": "2026-11-20T20:27:13+00:00",
-   "summary": "Every few weeks, someone running a SaaS platform asks me why their server bill keeps climbing while their analytics look flat. The answer is almost always the same. A growing share of the requests\u2026"
-  },
-  {
    "title": "Salesforce CEO Says \u2018Goodbye SEO.\u2019 Salesforce\u2019s SEO Guide Disagrees via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
    "source": "Search Engine Journal",
@@ -42,27 +77,6 @@
    "source": "Search Engine Journal",
    "date": "2026-11-20T20:00:34+00:00",
    "summary": "Scaled AI content, fake authors, and self-promotional listicles work until they don\u2019t. Here\u2019s why putting real human experts first keeps paying off in search. The post Why Building Trust Through\u2026"
-  },
-  {
-   "title": "Call My Leads With No Engineering Team: What RevOps Leaders Asked Before Buying (2026)",
-   "link": "https://martech.zone/call-my-leads-with-no-engineering-team-what-revops-leaders-asked-before-buying-2026/",
-   "source": "Martech Zone",
-   "date": "2026-11-20T19:46:12+00:00",
-   "summary": "Learn the five questions RevOps leaders ask before they pick a tool to call leads with no engineering team, and how five AI calling options compare."
-  },
-  {
-   "title": "Cron Builder: Build or Decode a Cron Expression and See Exactly When It Runs",
-   "link": "https://martech.zone/cron-builder/",
-   "source": "Martech Zone",
-   "date": "2026-11-20T19:11:08+00:00",
-   "summary": "Key Takeaways Paste a 5-field cron expression, a 6-field expression with seconds, or a macro such as @daily to load it into the form, or start from a preset. The Simple tab sets common schedules\u2026"
-  },
-  {
-   "title": "The Future of Retail: Consumer Trends That Will Reshape Shopping in 2027",
-   "link": "https://martech.zone/bright-future-retail/",
-   "source": "Martech Zone",
-   "date": "2026-11-20T16:25:08+00:00",
-   "summary": "Key Takeaways Online and in-store spending have settled into a near even split, so growth in 2027 will come from connecting channels rather than moving shoppers from one to the other. Stores will\u2026"
   },
   {
    "title": "Google\u2019s \u2018Top 10\u2019 Line For CMOs Points At Generic Tips Posts via @sejournal, @MattGSouthern",
@@ -121,13 +135,6 @@
    "summary": "Intuit\u2019s bet on marketing automation ends with a whimper, as Mailchimp finds a home with once-mighty tech brands like AOL, Evernote, and Airtable. The post Intuit finds a buyer for Mailchimp in\u2026"
   },
   {
-   "title": "Enterprise Ecommerce Migration Without Losing Orders",
-   "link": "https://martech.zone/enterprise-ecommerce-migration-without-losing-orders/",
-   "source": "Martech Zone",
-   "date": "2026-11-19T23:34:44+00:00",
-   "summary": "Protect orders during an enterprise ecommerce migration by keeping identifiers stable, reconciling payments and refunds, and staging a controlled cutover."
-  },
-  {
    "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
    "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
    "source": "Search Engine Journal",
@@ -140,13 +147,6 @@
    "source": "Search Engine Journal",
    "date": "2026-11-19T18:00:31+00:00",
    "summary": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift. The post Google\u2019s Next Update Won\u2019t Touch The Index, And\u2026"
-  },
-  {
-   "title": "Your WordPress Sitemap Isn\u2019t Broken \u2013 Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
-   "link": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-19T15:00:06+00:00",
-   "summary": "Chrome dropping XSLT makes WordPress sitemaps display as raw XML. Skip the unnecessary fixes and use Google Search Console to verify crawlers still read them. The post Your WordPress Sitemap Isn\u2019t\u2026"
   },
   {
    "title": "Claude Cowork skills: How they work and what to build",
