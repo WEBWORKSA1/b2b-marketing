@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-22T19:36:34.917497+00:00",
+ "updated": "2026-11-23T07:34:16.352671+00:00",
  "items": [
+  {
+   "title": "Which Companies Can Turn an AI Prototype Into a Scalable Production-Ready Product?",
+   "link": "https://martech.zone/which-companies-can-turn-an-ai-prototype-into-a-scalable-production-ready-product/",
+   "source": "Martech Zone",
+   "date": "2026-11-22T20:19:06+00:00",
+   "summary": "Artificial intelligence prototypes are easier to create than ever, but transforming an experimental solution into a reliable product remains a complex engineering challenge. An AI application may\u2026"
+  },
+  {
+   "title": "Advoratise: A Transparent Marketplace For Buying And Selling Ad Placements",
+   "link": "https://martech.zone/advoratise/",
+   "source": "Martech Zone",
+   "date": "2026-11-22T19:39:49+00:00",
+   "summary": "Buying a newsletter sponsorship or a podcast host-read still often means chasing a rate card, negotiating over email, and hoping the audience numbers are real. Advoratise is a marketplace built to\u2026"
+  },
+  {
+   "title": "xTiles: A Visual Workspace For Notes, Tasks, And Projects",
+   "link": "https://martech.zone/xtiles/",
+   "source": "Martech Zone",
+   "date": "2026-11-22T18:20:00+00:00",
+   "summary": "Most planning tools still keep notes in one place, tasks in another, and the calendar somewhere else. xTiles is a visual workspace that puts those pieces on one page, arranged as tiles you can move\u2026"
+  },
   {
    "title": "WordPress Plugin: DK Preview and Feedback for Posts",
    "link": "https://martech.zone/wordpress-plugin-dk-preview-and-feedback-for-posts/",
@@ -37,32 +58,11 @@
    "summary": "I was a product manager at an ESP and have been sending and studying email for a long time. The biggest change I see heading into 2027 has nothing to do with templates or send times. It is about who\u2026"
   },
   {
-   "title": "CSS Unit Converter: Convert px, rem, em, pt, and Viewport Units, or Rewrite a Whole Stylesheet",
-   "link": "https://martech.zone/css-unit-converter/",
-   "source": "Martech Zone",
-   "date": "2026-11-21T13:16:24+00:00",
-   "summary": "Key Takeaways CSS length units fall into three groups: absolute units such as px, pt, pc, in, cm, and mm; font-relative units such as rem, em, and percent; and viewport units such as vw, vh, vmin,\u2026"
-  },
-  {
    "title": "WordPress Random Redirects, Branded API Data & CDN Advice \u2013 SEO Pulse via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
    "source": "Search Engine Journal",
    "date": "2026-11-21T13:00:00+00:00",
    "summary": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents. The post WordPress Random Redirects,\u2026"
-  },
-  {
-   "title": "The History of Text Messaging: From the First SMS to RCS and AI Agents",
-   "link": "https://martech.zone/history-of-text-messaging/",
-   "source": "Martech Zone",
-   "date": "2026-11-20T21:08:15+00:00",
-   "summary": "On December 3, 1992, a 22-year-old programmer named Neil Papworth typed two words into a computer and sent them to a mobile phone on the Vodafone network in the U.K. The message was Merry Christmas,\u2026"
-  },
-  {
-   "title": "Amazon Web Services by the Numbers: Scale, Share, and the AI Workload Shift",
-   "link": "https://martech.zone/amazon-web-services-aws-stats/",
-   "source": "Martech Zone",
-   "date": "2026-11-20T21:03:39+00:00",
-   "summary": "Amazon Web Services (AWS) has a rare problem for a market leader: it is growing faster than it has in nearly five years, and it is still losing share. That is not a contradiction once you look at\u2026"
   },
   {
    "title": "Salesforce CEO Says \u2018Goodbye SEO.\u2019 Salesforce\u2019s SEO Guide Disagrees via @sejournal, @MattGSouthern",
