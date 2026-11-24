@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-24T09:51:22.693231+00:00",
+ "updated": "2026-11-24T22:25:01.490991+00:00",
  "items": [
+  {
+   "id": "x-N-TKmgms4",
+   "title": "Why Xiaomi Products Are Everywhere",
+   "channel": "The Hustle ",
+   "date": "2026-11-24T21:00:06+00:00"
+  },
+  {
+   "id": "L98TYTqIByk",
+   "title": "AI Is Closing Sales Before Your Website Loads",
+   "channel": "Neil Patel",
+   "date": "2026-11-24T19:01:38+00:00"
+  },
+  {
+   "id": "ZiBfawBKX_0",
+   "title": "When to use an MCP server vs CLI with DevTools for agents",
+   "channel": "Chrome for Developers",
+   "date": "2026-11-24T18:09:28+00:00"
+  },
+  {
+   "id": "uuLYON-N0oU",
+   "title": "How Salesforce Creates Headless Agents With AIforce | Dreamforce 2026",
+   "channel": "Salesforce Product Center",
+   "date": "2026-11-24T15:00:26+00:00"
+  },
+  {
+   "id": "kAvwsOJVp30",
+   "title": "Google Ads Can\u2019t Tell a Small Lead From a Big One",
+   "channel": "Neil Patel",
+   "date": "2026-11-24T13:03:22+00:00"
+  },
   {
    "id": "Zk2g7NGWGgQ",
    "title": "Taking WebMCP to production",
@@ -24,12 +54,6 @@
    "title": "The browser already won, we just haven\u2019t realized it yet",
    "channel": "Chrome for Developers",
    "date": "2026-11-23T20:52:44+00:00"
-  },
-  {
-   "id": "7CrR4iXWLwM",
-   "title": "Web AI meets physical AI: Multimodal robotics in the browser",
-   "channel": "Chrome for Developers",
-   "date": "2026-11-23T20:50:24+00:00"
   },
   {
    "id": "L09H5veLCEE",
@@ -62,18 +86,6 @@
    "date": "2026-11-22T19:05:50+00:00"
   },
   {
-   "id": "EAxjoOE8HJ8",
-   "title": "AI Is Recommending You to the Wrong Customer",
-   "channel": "Neil Patel",
-   "date": "2026-11-22T13:03:27+00:00"
-  },
-  {
-   "id": "IaA48TYPFOg",
-   "title": "7 in 10 Google Searches Get Zero Clicks Now",
-   "channel": "Neil Patel",
-   "date": "2026-11-21T19:02:14+00:00"
-  },
-  {
    "id": "jKSkOfbvXyA",
    "title": "Automate Sales Handoffs with Gong AI Agents // Gong on Gong",
    "channel": "Gong.io",
@@ -87,7 +99,7 @@
   },
   {
    "id": "j4fw-n7xxc4",
-   "title": "Why Xiaomi Products Are Everywhere",
+   "title": "How One Brand Quietly Conquered Everything We Use",
    "channel": "The Hustle ",
    "date": "2026-11-19T20:00:24+00:00"
   },
@@ -152,12 +164,6 @@
    "date": "2026-11-16T16:00:09+00:00"
   },
   {
-   "id": "lgj39Vtn6Z4",
-   "title": "Ambient Agents: Your Second Brain for Sales and Service | Dreamforce 2026",
-   "channel": "Salesforce Product Center",
-   "date": "2026-11-16T15:00:20+00:00"
-  },
-  {
    "id": "QuLzu1tlLyA",
    "title": "Why Is China Buying Brands That Are Losing Money?",
    "channel": "The Hustle ",
@@ -198,12 +204,6 @@
    "title": "How to Set Up A Moz AI Visibility Dashboard",
    "channel": "Moz",
    "date": "2026-11-10T18:48:34+00:00"
-  },
-  {
-   "id": "CJLcI88UlIs",
-   "title": "The Cheesecake Factory business should not work",
-   "channel": "The Hustle ",
-   "date": "2026-11-09T18:00:13+00:00"
   },
   {
    "id": "oWrVGjks_cI",
