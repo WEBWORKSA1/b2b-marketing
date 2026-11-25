@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-24T22:24:55.792875+00:00",
+ "updated": "2026-11-25T08:29:25.468437+00:00",
  "items": [
+  {
+   "title": "AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You",
+   "link": "https://ahrefs.com/blog/ai-sentiment-analysis/",
+   "source": "Ahrefs Blog",
+   "date": "2026-11-25T08:18:04+00:00",
+   "summary": "It can help you spot recurring objections, see what competitors get praised for, and find ways to improve your products and how you explain them. After all, AI visibility isn\u2019t just about whether\u2026"
+  },
   {
    "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
@@ -121,11 +128,11 @@
    "summary": "If you're concerned that your email is not getting to your subscribers' inboxes, there's a chance that the IP address you're sending from has been blacklisted.\u2026"
   },
   {
-   "title": "What Bing\u2019s AI Actually Cites: 883,000 Citations Analyzed via @sejournal, @dodgejd",
+   "title": "Bing\u2019s AI Cites Support Pages, PDFs & Staff Bios \u2013 883,313 Citations Analyzed via @sejournal, @dodgejd",
    "link": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
    "source": "Search Engine Journal",
    "date": "2026-11-24T13:00:08+00:00",
-   "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post What Bing\u2019s AI Actually Cites: 883,000\u2026"
+   "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post Bing\u2019s AI Cites Support Pages, PDFs &\u2026"
   },
   {
    "title": "Google\u2019s Expansion Of Personal Intelligence Will Change SEO via @sejournal, @martinibuster",
@@ -135,11 +142,11 @@
    "summary": "Google's expanded Personal Intelligence represents a change in the relationship between Search and SEO. The post Google\u2019s Expansion Of Personal Intelligence Will Change SEO appeared first on Search\u2026"
   },
   {
-   "title": "Reddit\u2019s AEO Tool Recommendations Have A Promoter Problem via @sejournal, @MattGSouthern",
+   "title": "Report Flags Most Reddit Users Rating AEO Tools As Likely Promoters via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
    "source": "Search Engine Journal",
    "date": "2026-11-23T22:52:42+00:00",
-   "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Reddit\u2019s AEO Tool Recommendations Have A\u2026"
+   "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Report Flags Most Reddit Users Rating AEO\u2026"
   },
   {
    "title": "How AI is re-shaping mid-market marketing",
@@ -315,13 +322,6 @@
    "source": "Moz Blog",
    "date": "2026-11-04T08:00:00+00:00",
    "summary": "Struggling to track SEO results through privacy and consent blind spots? Learn how to use GSC, GA4, and CRM data to explain SEO impact when the full customer journey isn\u2019t visible."
-  },
-  {
-   "title": "Every OpenAI Publisher Partnership, and How Often ChatGPT Cites Them",
-   "link": "https://ahrefs.com/blog/openai-publisher-partnerships/",
-   "source": "Ahrefs Blog",
-   "date": "2026-11-03T17:03:55+00:00",
-   "summary": "Each deal works roughly the same way: the publisher licenses its content to OpenAI, and ChatGPT shows summaries of that content with attribution and a link back to the source. That makes these\u2026"
   },
   {
    "title": "The Complete AI Research Workflow: From Prompt Discovery to Content Creation",
