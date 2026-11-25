@@ -1,6 +1,111 @@
 {
- "updated": "2026-11-25T08:29:25.468437+00:00",
+ "updated": "2026-11-25T21:39:42.060601+00:00",
  "items": [
+  {
+   "title": "Wiring Webinars Into Your Marketing Stack: From Registration to Revenue",
+   "link": "https://martech.zone/wiring-webinars-into-your-marketing-stack/",
+   "source": "Martech Zone",
+   "date": "2026-11-25T21:34:16+00:00",
+   "summary": "Key Takeaways Capture webinar attribution from the start by tagging every promotion link with UTM parameters, keeping registration forms minimal, and storing explicit consent in your CRM. Sync three\u2026"
+  },
+  {
+   "title": "Archie by Agorapulse: Turning Existing Content Into On-Brand Social Posts",
+   "link": "https://martech.zone/agorapulse-archie/",
+   "source": "Martech Zone",
+   "date": "2026-11-25T20:32:09+00:00",
+   "summary": "Key Takeaways Archie by Agorapulse is a source-first AI content repurposing studio that converts existing webinars, articles, reports, videos, audio, and PDFs into platform-native social posts,\u2026"
+  },
+  {
+   "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time \u2013 Claude Opus Never Did via @sejournal, @slobodanmanic",
+   "link": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-25T20:00:32+00:00",
+   "summary": "AI models flagged a deal as suspicious 315 times, bought the fake anyway 137 times, and never asked the shopper about the deal. The post AI Shopping Agents Bought A Fake Deal 37% Of The Time \u2013\u2026"
+  },
+  {
+   "title": "From Word Report to Client-Ready Deck: A Measured Test for Marketers",
+   "link": "https://martech.zone/word-report-to-client-ready-deck/",
+   "source": "Martech Zone",
+   "date": "2026-11-25T18:22:36+00:00",
+   "summary": "Key Takeaways In a November 25, 2026 test, converting a 10-section Word report with 2 tables into a slide deck took about 2.5 minutes, preserving both editable tables and 80 of 81 numbers.\u2026"
+  },
+  {
+   "title": "SEO Copywriting Tips: How to Write Content That Ranks and Gets Cited by AI",
+   "link": "https://martech.zone/seo-copywriting-tips/",
+   "source": "Martech Zone",
+   "date": "2026-11-25T18:09:00+00:00",
+   "summary": "Key Takeaways SEO copywriting now has two audiences: the person searching and the AI system that summarizes results and decides which pages to cite. AI Overviews have cut clicks to top-ranking\u2026"
+  },
+  {
+   "title": "Top Publisher League Tables For U.S. & U.K.",
+   "link": "https://www.searchenginejournal.com/top-publisher-league-tables-for-us-uk/598933/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-25T18:00:02+00:00",
+   "summary": "Monthly U.K. and U.S. leaderboards rank publishers on engagement, loyalty, and audience scale using Similarweb data. The post Top Publisher League Tables For U.S. & U.K. appeared first on Search\u2026"
+  },
+  {
+   "title": "How To Wire A Video Editing API Into Your Marketing Stack For Personalized Video At Scale",
+   "link": "https://martech.zone/video-editing-api-marketing-stack/",
+   "source": "Martech Zone",
+   "date": "2026-11-25T15:28:15+00:00",
+   "summary": "Key Takeaways Personalized video is a data problem first and an editing problem second. Treat the template, the data and the render step as separate parts of a pipeline. Inventory and map your CRM\u2026"
+  },
+  {
+   "title": "Emerging AI Job Titles in Digital Marketing: 10 New Roles Plus 38 Established Ones",
+   "link": "https://martech.zone/types-of-digital-marketers/",
+   "source": "Martech Zone",
+   "date": "2026-11-25T15:21:19+00:00",
+   "summary": "Key Takeaways Engineering-style AI job titles are emerging in digital marketing, including Marketing Engineer, GTM Engineer, and Local Presence Engineer. These roles use AI to build tools,\u2026"
+  },
+  {
+   "title": "ChatGPT Ads Are Growing Fast \u2013 But Are Advertisers Seeing Results? via @sejournal, @brookeosmundson",
+   "link": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-25T15:00:31+00:00",
+   "summary": "Early ChatGPT Ads tests show why following leads through to a sale or qualified opportunity can help you decide whether to keep spending. The post ChatGPT Ads Are Growing Fast \u2013 But Are Advertisers\u2026"
+  },
+  {
+   "title": "Social Media Trends for 2027: Social Search, Creator Programs, and In-App Commerce",
+   "link": "https://martech.zone/social-media-trends/",
+   "source": "Martech Zone",
+   "date": "2026-11-25T13:37:36+00:00",
+   "summary": "Social media has shifted from an awareness sidebar into the center of digital ad budgets, product discovery, and direct checkout.\u2026"
+  },
+  {
+   "title": "The more AI can do, the more marketers need to know",
+   "link": "https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/",
+   "source": "MarTech",
+   "date": "2026-11-25T13:18:00+00:00",
+   "summary": "Faster execution comes with new risks. Here's why marketers need strategic thinking, AI guardrails, and technical knowledge to make better decisions. The post The more AI can do, the more marketers\u2026"
+  },
+  {
+   "title": "How to create expert content your competitors can\u2019t copy",
+   "link": "https://martech.org/how-to-create-expert-content-your-competitors-cant-copy/",
+   "source": "MarTech",
+   "date": "2026-11-25T13:18:00+00:00",
+   "summary": "Use video interviews to capture the professional judgment, real customer stories, and personal perspectives that AI cannot provide. The post How to create expert content your competitors can\u2019t copy\u2026"
+  },
+  {
+   "title": "The latest AI-powered martech news and releases",
+   "link": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+   "source": "MarTech",
+   "date": "2026-11-25T13:02:00+00:00",
+   "summary": "Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful. The post The latest AI-powered martech news and releases\u2026"
+  },
+  {
+   "title": "Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome? via @sejournal, @billhunt",
+   "link": "https://www.searchenginejournal.com/is-geo-visibility-delivering-business-value-or-are-we-measuring-the-wrong-outcome/594064/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-25T13:00:23+00:00",
+   "summary": "GEO visibility can hide gaps that keep buyers from shortlisting your brand. Decision Coverage shifts measurement toward buyer requirements and supporting evidence. The post Is GEO Visibility\u2026"
+  },
+  {
+   "title": "How Modern Design Tools Streamline Multi-Channel Banner Design Workflows",
+   "link": "https://martech.zone/multi-channel-banner-design-workflows/",
+   "source": "Martech Zone",
+   "date": "2026-11-25T10:32:35+00:00",
+   "summary": "Modern design tools streamline banner design workflows by bringing templates, brand assets, and team reviews into one process. They help teams create banners for different platforms without having\u2026"
+  },
   {
    "title": "AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You",
    "link": "https://ahrefs.com/blog/ai-sentiment-analysis/",
@@ -23,32 +128,11 @@
    "summary": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets. The post What A Billboard Network Knows\u2026"
   },
   {
-   "title": "Date-Triggered Marketing Automation: Turning One Gift Order Into Next Year\u2019s Reminder",
-   "link": "https://martech.zone/date-triggered-marketing-automation-gift-retail/",
-   "source": "Martech Zone",
-   "date": "2026-11-24T19:43:10+00:00",
-   "summary": "Most retail data describes what a customer bought. Gift retail produces something more useful: the date on which that customer will need to buy again. A birthday or an anniversary comes around every\u2026"
-  },
-  {
    "title": "CRM for political campaigns: Key terms and FAQs answered",
    "link": "https://blog.hubspot.com/marketing/crm-for-political-campaigns",
    "source": "HubSpot Marketing Blog",
    "date": "2026-11-24T19:40:04+00:00",
    "summary": "A political campaign CRM is a system for managing supporter relationships and coordinating campaign interactions across teams. Unlike a general CRM, a political campaign CRM focuses on the needs of\u2026"
-  },
-  {
-   "title": "Marketing Wearable Health Technology: How Transparent Product Education Builds Consumer Trust",
-   "link": "https://martech.zone/marketing-wearable-health-technology/",
-   "source": "Martech Zone",
-   "date": "2026-11-24T18:43:13+00:00",
-   "summary": "A consumer looking at two health wearables may see very similar promises: better recovery, improved wellbeing, more insight into the body. One device tracks physiological signals and turns them into\u2026"
-  },
-  {
-   "title": "6 Best SEO Tools for Agencies in 2027",
-   "link": "https://martech.zone/seo-tools-for-agencies/",
-   "source": "Martech Zone",
-   "date": "2026-11-24T18:14:16+00:00",
-   "summary": "The best SEO tool for agencies in 2027 is SE Ranking, because one project set per client feeds rankings, audits, backlinks, and white-label reports, so a roster of 20 to 60 retainers runs from one\u2026"
   },
   {
    "title": "Google Announces December 2026 Core Update Ahead Of Rollout via @sejournal, @MattGSouthern",
@@ -63,27 +147,6 @@
    "source": "Search Engine Journal",
    "date": "2026-11-24T15:00:28+00:00",
    "summary": "WordPress fell to 38.4% of all websites as the share with no detected CMS rose to 33.0%. The post WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year appeared first on Search Engine\u2026"
-  },
-  {
-   "title": "SSL Certificate and Security Contact Checker: Expiration, Issuer, Hostnames, Chain, and security.txt",
-   "link": "https://martech.zone/ssl-certificate-security-contact-checker/",
-   "source": "Martech Zone",
-   "date": "2026-11-24T14:58:22+00:00",
-   "summary": "Every week I land on a site, click a link in an email, or open a prospect's pricing page and get a full-screen browser warning instead. Most of the time it isn't a hacker.\u2026"
-  },
-  {
-   "title": "WordPress Plugin: DK Post Sync for Google Docs",
-   "link": "https://martech.zone/wordpress-plugin-dk-post-sync-for-google-docs/",
-   "source": "Martech Zone",
-   "date": "2026-11-24T14:57:09+00:00",
-   "summary": "I publish dealer SEO articles for my employer and have a growing archive, and I want those articles available to Gemini and the Model Context Protocol (MCP) tools we use as a knowledge base we can\u2026"
-  },
-  {
-   "title": "Google Confirms November 2026 Core Update Is Complete via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/google-november-2026-core-update-complete/598751/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-24T14:48:46+00:00",
-   "summary": "Google\u2019s November 2026 core update finished Nov. 24, just before a holiday week that could complicate Search Console comparisons for retailers. The post Google Confirms November 2026 Core Update Is\u2026"
   },
   {
    "title": "How Does Google Get Its Information? 7 Ways (2026)",
@@ -107,48 +170,6 @@
    "summary": "Skipping brand building doesn't save money. It creates marketing debt that makes generating sales harder and costlier when you need them most. The post 3 ways neglecting your brand undermines sales\u2026"
   },
   {
-   "title": "How Smart Shopify Brands Are Launching Mobile Apps Today",
-   "link": "https://martech.zone/shopify-brand-mobile-apps/",
-   "source": "Martech Zone",
-   "date": "2026-11-24T13:43:10+00:00",
-   "summary": "For a Shopify brand, a mobile app is one of the most valuable channels there is. It puts your brand on your best customers' home screens, lets you reach them with push notifications, and keeps\u2026"
-  },
-  {
-   "title": "Which AI SEO Agencies Actually Deliver Measurable Results for Startups?",
-   "link": "https://martech.zone/which-ai-seo-agencies-actually-deliver-measurable-results-for-startups/",
-   "source": "Martech Zone",
-   "date": "2026-11-24T13:42:52+00:00",
-   "summary": "For startups, an AI SEO agency delivers measurable results when it sets a baseline quickly, shows leading indicators early, and connects search and AI visibility to leads within a defined period.\u2026"
-  },
-  {
-   "title": "Email Blacklist Checker: See If Your Sending IP Is Listed On Major DNSBL Servers",
-   "link": "https://martech.zone/dnsbl-blacklist-check-for-ip-address/",
-   "source": "Martech Zone",
-   "date": "2026-11-24T13:22:00+00:00",
-   "summary": "If you're concerned that your email is not getting to your subscribers' inboxes, there's a chance that the IP address you're sending from has been blacklisted.\u2026"
-  },
-  {
-   "title": "Bing\u2019s AI Cites Support Pages, PDFs & Staff Bios \u2013 883,313 Citations Analyzed via @sejournal, @dodgejd",
-   "link": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-24T13:00:08+00:00",
-   "summary": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post Bing\u2019s AI Cites Support Pages, PDFs &\u2026"
-  },
-  {
-   "title": "Google\u2019s Expansion Of Personal Intelligence Will Change SEO via @sejournal, @martinibuster",
-   "link": "https://www.searchenginejournal.com/googles-expansion-of-personal-intelligence-will-change-seo/598724/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-24T11:55:13+00:00",
-   "summary": "Google's expanded Personal Intelligence represents a change in the relationship between Search and SEO. The post Google\u2019s Expansion Of Personal Intelligence Will Change SEO appeared first on Search\u2026"
-  },
-  {
-   "title": "Report Flags Most Reddit Users Rating AEO Tools As Likely Promoters via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-23T22:52:42+00:00",
-   "summary": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Report Flags Most Reddit Users Rating AEO\u2026"
-  },
-  {
    "title": "How AI is re-shaping mid-market marketing",
    "link": "https://martech.org/how-ai-is-re-shaping-mid-market-marketing/",
    "source": "MarTech",
@@ -170,13 +191,6 @@
    "summary": "Buying AI tools is easy. Getting teams to use them is harder. Here's how to fund the people and processes that turn AI spending into results. The post What\u2019s missing from your 2027 marketing AI\u2026"
   },
   {
-   "title": "How to build reliable client reporting with AI by AgencyAnalytics",
-   "link": "https://martech.org/how-to-build-reliable-client-reporting-with-ai/",
-   "source": "MarTech",
-   "date": "2026-11-23T12:00:00+00:00",
-   "summary": "Give AI the right client data, and it\u2019ll give you answers you can trust. The post How to build reliable client reporting with AI appeared first on MarTech ."
-  },
-  {
    "title": "How to Claim, Verify, and Manage Google Business Profiles at Scale",
    "link": "https://moz.com/blog/manage-and-verify-gbp-at-scale",
    "source": "Moz Blog",
@@ -184,25 +198,11 @@
    "summary": "Struggling to manage dozens of Google Business Profiles? This guide provides everything you need to know to start using business groups, avoiding common pitfalls, and setting up an efficient system\u2026"
   },
   {
-   "title": "B2B events have an ROI problem before the show starts",
-   "link": "https://martech.org/b2b-events-have-an-roi-problem-before-the-show-starts/",
-   "source": "MarTech",
-   "date": "2026-11-20T13:51:00+00:00",
-   "summary": "Most teams know which accounts they want to reach, but weak meeting goals, CRM tagging, and follow-up make event ROI harder to prove. The post B2B events have an ROI problem before the show starts\u2026"
-  },
-  {
    "title": "AI search volatility: What it means for your traffic",
    "link": "https://blog.hubspot.com/marketing/ai-search-volatility",
    "source": "HubSpot Marketing Blog",
    "date": "2026-11-20T13:30:06+00:00",
    "summary": "For SEO managers, volatility is nothing new (Google has been hitting us with algorithm update surprises for years). But AI search volatility adds a new layer of complexity. Plenty of teams have a\u2026"
-  },
-  {
-   "title": "Give holiday shoppers more value without relying on discounts",
-   "link": "https://martech.org/give-holiday-shoppers-more-value-without-relying-on-discounts/",
-   "source": "MarTech",
-   "date": "2026-11-20T12:56:00+00:00",
-   "summary": "From the first promotional email to the moment a package arrives, every interaction is a chance to make a purchase feel worth the price. The post Give holiday shoppers more value without relying on\u2026"
   },
   {
    "title": "Create High-Impact Content Using Backward Design \u2014 Whiteboard Friday",
