@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-26T08:13:14.187943+00:00",
+ "updated": "2026-11-26T21:29:24.335957+00:00",
  "items": [
+  {
+   "id": "zHQiDOScwI4",
+   "title": "Stop Paying for AI That Can\u2019t Prove Itself",
+   "channel": "Neil Patel",
+   "date": "2026-11-26T19:02:02+00:00"
+  },
+  {
+   "id": "cpdUA2q5EZk",
+   "title": "Where Should Your Ad Budget Go in 2027?",
+   "channel": "Neil Patel",
+   "date": "2026-11-26T13:01:04+00:00"
+  },
   {
    "id": "VckpfsTsT00",
    "title": "A Million Views Can Still Make You $0",
@@ -26,12 +38,6 @@
    "date": "2026-11-24T21:00:06+00:00"
   },
   {
-   "id": "L98TYTqIByk",
-   "title": "AI Is Closing Sales Before Your Website Loads",
-   "channel": "Neil Patel",
-   "date": "2026-11-24T19:01:38+00:00"
-  },
-  {
    "id": "ZiBfawBKX_0",
    "title": "When to use an MCP server vs CLI with DevTools for agents",
    "channel": "Chrome for Developers",
@@ -42,12 +48,6 @@
    "title": "How Salesforce Creates Headless Agents With AIforce | Dreamforce 2026",
    "channel": "Salesforce Product Center",
    "date": "2026-11-24T15:00:26+00:00"
-  },
-  {
-   "id": "kAvwsOJVp30",
-   "title": "Google Ads Can\u2019t Tell a Small Lead From a Big One",
-   "channel": "Neil Patel",
-   "date": "2026-11-24T13:03:22+00:00"
   },
   {
    "id": "Zk2g7NGWGgQ",

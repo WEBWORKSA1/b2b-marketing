@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-26T08:13:08.675805+00:00",
+ "updated": "2026-11-26T21:29:17.930804+00:00",
  "items": [
+  {
+   "title": "Replace WordPress Search With Cloudflare Workers and AI Search",
+   "link": "https://martech.zone/replace-wordpress-search-with-cloudflare-workers/",
+   "source": "Martech Zone",
+   "date": "2026-11-26T20:00:18+00:00",
+   "summary": "Back in May, a bot found the search box on Martech Zone and sent random words to it. Each request made WordPress run three unindexed database scans, and the server fell over\u2026"
+  },
+  {
+   "title": "Thanksgiving Marketing in 2026: History, Spending, and Business Impact",
+   "link": "https://martech.zone/thanksgiving-history-and-business-importance/",
+   "source": "Martech Zone",
+   "date": "2026-11-26T16:28:55+00:00",
+   "summary": "Happy Thanksgiving! Today, millions of Americans will sit down to a meal that traces back to a harvest feast in 1621, and by tomorrow morning many of them will be shopping. That pairing of gratitude\u2026"
+  },
+  {
+   "title": "The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester",
+   "link": "https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-26T15:00:36+00:00",
+   "summary": "Competency questions, a 30-year-old knowledge engineering method, define which questions matter and what a correct answer is. The post The Missing Step In Prompt Tracking Was Written Down In 1995\u2026"
+  },
+  {
+   "title": "10 Hardware Gift Ideas for AI Enthusiasts: Home Office Picks for 2026",
+   "link": "https://martech.zone/ai-enthusiast-home-office-hardware-gift-ideas/",
+   "source": "Martech Zone",
+   "date": "2026-11-26T13:21:07+00:00",
+   "summary": "Tomorrow is Black Friday, followed by Cyber Monday, and if someone on your list spends nights running local models, wiring up agents, or tuning a home lab, the best gift isn't another gadget. It's\u2026"
+  },
+  {
+   "title": "What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026 via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/what-seos-can-be-thankful-for-2026/598921/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-26T13:00:22+00:00",
+   "summary": "A Thanksgiving roundup of eight search changes from this year worth a thank-you, from AI visibility data and social reports to a back button policy. The post What SEOs Can Be Thankful For: 8 Wins To\u2026"
+  },
+  {
+   "title": "YouTube Marketing in 2027: How to Prepare Your Business for TV Screens, Shorts, and Shoppable Video",
+   "link": "https://martech.zone/youtube-marketing/",
+   "source": "Martech Zone",
+   "date": "2026-11-26T12:31:51+00:00",
+   "summary": "YouTube started as a place to share homemade clips. Heading into 2027, it is the most watched streaming service on American televisions, a short-form video network with 200 billion daily views, a\u2026"
+  },
+  {
+   "title": "Mobile Commerce Statistics and Design Considerations for 2027",
+   "link": "https://martech.zone/mobile-commerce-growth-statistics/",
+   "source": "Martech Zone",
+   "date": "2026-11-26T12:31:50+00:00",
+   "summary": "Mobile commerce (M) is no longer the growth channel retailers plan around. It is the channel\u2026"
+  },
+  {
+   "title": "Average Click-Through Rate by SERP Position in 2026: How AI Overviews Are Reshaping Organic Clicks",
+   "link": "https://martech.zone/serp-behavior-click-through-rates/",
+   "source": "Martech Zone",
+   "date": "2026-11-26T12:31:49+00:00",
+   "summary": "Ranking on page one has never guaranteed traffic, but the gap between a ranking and a visit has never been wider. Google search engine results pages (SERPs) now stack ads, AI Overviews, People Also\u2026"
+  },
+  {
+   "title": "AI Overviews Cut CTR by \u221224.4% in France (3 Month Update)",
+   "link": "https://ahrefs.com/blog/ai-overviews-ctr-france/",
+   "source": "Ahrefs Blog",
+   "date": "2026-11-26T11:04:41+00:00",
+   "summary": "In our first study (August 2026), the sites most exposed to AI Overviews had lost 23.1% of their click-through rate (CTR) in 9 days. As the share of AI Overviews kept growing in France, and their\u2026"
+  },
   {
    "title": "OpenAI Isn\u2019t Planning Prompt-Level Reports For ChatGPT Ads via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
@@ -30,32 +93,11 @@
    "summary": "Key Takeaways Capture webinar attribution from the start by tagging every promotion link with UTM parameters, keeping registration forms minimal, and storing explicit consent in your CRM. Sync three\u2026"
   },
   {
-   "title": "Archie by Agorapulse: Turning Existing Content Into On-Brand Social Posts",
-   "link": "https://martech.zone/agorapulse-archie/",
-   "source": "Martech Zone",
-   "date": "2026-11-25T20:32:09+00:00",
-   "summary": "Key Takeaways Archie by Agorapulse is a source-first AI content repurposing studio that converts existing webinars, articles, reports, videos, audio, and PDFs into platform-native social posts,\u2026"
-  },
-  {
    "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time \u2013 Claude Opus Never Did via @sejournal, @slobodanmanic",
    "link": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
    "source": "Search Engine Journal",
    "date": "2026-11-25T20:00:32+00:00",
    "summary": "AI models flagged a deal as suspicious 315 times, bought the fake anyway 137 times, and never asked the shopper about the deal. The post AI Shopping Agents Bought A Fake Deal 37% Of The Time \u2013\u2026"
-  },
-  {
-   "title": "From Word Report to Client-Ready Deck: A Measured Test for Marketers",
-   "link": "https://martech.zone/word-report-to-client-ready-deck/",
-   "source": "Martech Zone",
-   "date": "2026-11-25T18:22:36+00:00",
-   "summary": "Key Takeaways In a November 25, 2026 test, converting a 10-section Word report with 2 tables into a slide deck took about 2.5 minutes, preserving both editable tables and 80 of 81 numbers\u2026"
-  },
-  {
-   "title": "SEO Copywriting Tips: How to Write Content That Ranks and Gets Cited by AI",
-   "link": "https://martech.zone/seo-copywriting-tips/",
-   "source": "Martech Zone",
-   "date": "2026-11-25T18:09:00+00:00",
-   "summary": "Key Takeaways SEO copywriting now has two audiences: the person searching and the AI system that summarizes results and decides which pages to cite. AI Overviews have cut clicks to top-ranking\u2026"
   },
   {
    "title": "Top Publisher League Tables For U.S. & U.K.",
@@ -65,32 +107,11 @@
    "summary": "Monthly U.K. and U.S. leaderboards rank publishers on engagement, loyalty, and audience scale using Similarweb data. The post Top Publisher League Tables For U.S. & U.K. appeared first on Search\u2026"
   },
   {
-   "title": "How To Wire A Video Editing API Into Your Marketing Stack For Personalized Video At Scale",
-   "link": "https://martech.zone/video-editing-api-marketing-stack/",
-   "source": "Martech Zone",
-   "date": "2026-11-25T15:28:15+00:00",
-   "summary": "Key Takeaways Personalized video is a data problem first and an editing problem second. Treat the template, the data and the render step as separate parts of a pipeline. Inventory and map your CRM\u2026"
-  },
-  {
-   "title": "Emerging AI Job Titles in Digital Marketing: 10 New Roles Plus 38 Established Ones",
-   "link": "https://martech.zone/types-of-digital-marketers/",
-   "source": "Martech Zone",
-   "date": "2026-11-25T15:21:19+00:00",
-   "summary": "Key Takeaways Engineering-style AI job titles are emerging in digital marketing, including Marketing Engineer, GTM Engineer, and Local Presence Engineer. These roles use AI to build tools,\u2026"
-  },
-  {
-   "title": "ChatGPT Ads Are Growing Fast \u2013 But Are Advertisers Seeing Results? via @sejournal, @brookeosmundson",
+   "title": "ChatGPT Ads Hit 100,000 Advertisers \u2013 But Are They Seeing Results? via @sejournal, @brookeosmundson",
    "link": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
    "source": "Search Engine Journal",
    "date": "2026-11-25T15:00:31+00:00",
-   "summary": "Early ChatGPT Ads tests show why following leads through to a sale or qualified opportunity can help you decide whether to keep spending. The post ChatGPT Ads Are Growing Fast \u2013 But Are Advertisers\u2026"
-  },
-  {
-   "title": "Social Media Trends for 2027: Social Search, Creator Programs, and In-App Commerce",
-   "link": "https://martech.zone/social-media-trends/",
-   "source": "Martech Zone",
-   "date": "2026-11-25T13:37:36+00:00",
-   "summary": "Social media has shifted from an awareness sidebar into the center of digital ad budgets, product discovery, and direct checkout.\u2026"
+   "summary": "Early ChatGPT Ads tests show why following leads through to a sale or qualified opportunity can help you decide whether to keep spending. The post ChatGPT Ads Hit 100,000 Advertisers \u2013 But Are They\u2026"
   },
   {
    "title": "The more AI can do, the more marketers need to know",
@@ -126,20 +147,6 @@
    "source": "Ahrefs Blog",
    "date": "2026-11-25T08:18:04+00:00",
    "summary": "It can help you spot recurring objections, see what competitors get praised for, and find ways to improve your products and how you explain them. After all, AI visibility isn\u2019t just about whether\u2026"
-  },
-  {
-   "title": "Google Explains How To Send Feedback On A Core Update via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-24T22:06:57+00:00",
-   "summary": "New Search documentation explains when sites get advance notice of significant ranking updates, how to send feedback on them, and a new UK appeal route. The post Google Explains How To Send Feedback\u2026"
-  },
-  {
-   "title": "A Billboard CEO Says AI Makes Ads Cheaper, Not Better \u2013 3 Tests For Google Ads via @sejournal, @gregjarboe",
-   "link": "https://www.searchenginejournal.com/what-a-billboard-network-knows-about-measuring-search-ads-that-ppc-teams-forgot/597854/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-24T20:00:04+00:00",
-   "summary": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets. The post A Billboard CEO Says AI Makes Ads\u2026"
   },
   {
    "title": "CRM for political campaigns: Key terms and FAQs answered",
@@ -287,13 +294,6 @@
    "source": "Ahrefs Blog",
    "date": "2026-11-11T13:13:26+00:00",
    "summary": "We counted how many of 5.5 million US ChatGPT answers mention each brand. Walmart comes first, named in 95,605 answers, almost twice as many as second-placed Target. Stores take six of the top 10\u2026"
-  },
-  {
-   "title": "Where Does ChatGPT Get Its Information? 4 Sources, Explained",
-   "link": "https://ahrefs.com/blog/where-does-chatgpt-get-its-information/",
-   "source": "Ahrefs Blog",
-   "date": "2026-11-10T16:22:07+00:00",
-   "summary": "ChatGPT gets its information from training data, live web searches, licensed publisher content, and your own context. Here's how each one works. Read more \u203a"
   },
   {
    "title": "AEO benchmarking: What market data reveals about AI search",
