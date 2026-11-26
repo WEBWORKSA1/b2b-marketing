@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-25T21:39:42.060601+00:00",
+ "updated": "2026-11-26T08:13:08.675805+00:00",
  "items": [
+  {
+   "title": "OpenAI Isn\u2019t Planning Prompt-Level Reports For ChatGPT Ads via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-26T04:15:54+00:00",
+   "summary": "OpenAI says ChatGPT advertisers can see aggregate results but won\u2019t get reports showing the prompts or intent behind their ads. The post OpenAI Isn\u2019t Planning Prompt-Level Reports For ChatGPT Ads\u2026"
+  },
+  {
+   "title": "Google Adds Pageburst & 11 Other Existing Bots To Its Crawler Docs via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-26T03:22:22+00:00",
+   "summary": "Google's crawler docs now list pageburst, which renders pages for Google Ads and ignores robots.txt, plus more existing user agents to check in server logs. The post Google Adds Pageburst & 11 Other\u2026"
+  },
+  {
+   "title": "ads.txt and sellers.json Checker: Verify Authorized Digital Sellers and Flag Problems",
+   "link": "https://martech.zone/ads-txt-sellers-json-checker/",
+   "source": "Martech Zone",
+   "date": "2026-11-26T01:38:56+00:00",
+   "summary": "Programmatic advertising depends on a simple trust chain: publishers publish ads.txt to declare which ad exchanges and supply-side platforms may sell their inventory, and each exchange publishes\u2026"
+  },
   {
    "title": "Wiring Webinars Into Your Marketing Stack: From Registration to Revenue",
    "link": "https://martech.zone/wiring-webinars-into-your-marketing-stack/",
@@ -27,7 +48,7 @@
    "link": "https://martech.zone/word-report-to-client-ready-deck/",
    "source": "Martech Zone",
    "date": "2026-11-25T18:22:36+00:00",
-   "summary": "Key Takeaways In a November 25, 2026 test, converting a 10-section Word report with 2 tables into a slide deck took about 2.5 minutes, preserving both editable tables and 80 of 81 numbers.\u2026"
+   "summary": "Key Takeaways In a November 25, 2026 test, converting a 10-section Word report with 2 tables into a slide deck took about 2.5 minutes, preserving both editable tables and 80 of 81 numbers\u2026"
   },
   {
    "title": "SEO Copywriting Tips: How to Write Content That Ranks and Gets Cited by AI",
@@ -100,13 +121,6 @@
    "summary": "GEO visibility can hide gaps that keep buyers from shortlisting your brand. Decision Coverage shifts measurement toward buyer requirements and supporting evidence. The post Is GEO Visibility\u2026"
   },
   {
-   "title": "How Modern Design Tools Streamline Multi-Channel Banner Design Workflows",
-   "link": "https://martech.zone/multi-channel-banner-design-workflows/",
-   "source": "Martech Zone",
-   "date": "2026-11-25T10:32:35+00:00",
-   "summary": "Modern design tools streamline banner design workflows by bringing templates, brand assets, and team reviews into one process. They help teams create banners for different platforms without having\u2026"
-  },
-  {
    "title": "AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You",
    "link": "https://ahrefs.com/blog/ai-sentiment-analysis/",
    "source": "Ahrefs Blog",
@@ -114,18 +128,18 @@
    "summary": "It can help you spot recurring objections, see what competitors get praised for, and find ways to improve your products and how you explain them. After all, AI visibility isn\u2019t just about whether\u2026"
   },
   {
-   "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
+   "title": "Google Explains How To Send Feedback On A Core Update via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
    "source": "Search Engine Journal",
    "date": "2026-11-24T22:06:57+00:00",
-   "summary": "New Search documentation explains when sites get advance notice of significant ranking updates, how to send feedback on them, and a new UK appeal route. The post Google Documents Advance Notice For\u2026"
+   "summary": "New Search documentation explains when sites get advance notice of significant ranking updates, how to send feedback on them, and a new UK appeal route. The post Google Explains How To Send Feedback\u2026"
   },
   {
-   "title": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot via @sejournal, @gregjarboe",
+   "title": "A Billboard CEO Says AI Makes Ads Cheaper, Not Better \u2013 3 Tests For Google Ads via @sejournal, @gregjarboe",
    "link": "https://www.searchenginejournal.com/what-a-billboard-network-knows-about-measuring-search-ads-that-ppc-teams-forgot/597854/",
    "source": "Search Engine Journal",
    "date": "2026-11-24T20:00:04+00:00",
-   "summary": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets. The post What A Billboard Network Knows\u2026"
+   "summary": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets. The post A Billboard CEO Says AI Makes Ads\u2026"
   },
   {
    "title": "CRM for political campaigns: Key terms and FAQs answered",
@@ -133,20 +147,6 @@
    "source": "HubSpot Marketing Blog",
    "date": "2026-11-24T19:40:04+00:00",
    "summary": "A political campaign CRM is a system for managing supporter relationships and coordinating campaign interactions across teams. Unlike a general CRM, a political campaign CRM focuses on the needs of\u2026"
-  },
-  {
-   "title": "Google Announces December 2026 Core Update Ahead Of Rollout via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/google-december-2026-core-update/598760/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-24T15:10:30+00:00",
-   "summary": "Google announced a December core update focused on ranking relevant content for longer questions and improving results when personalization is on. The post Google Announces December 2026 Core Update\u2026"
-  },
-  {
-   "title": "WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/wordpress-drops-to-38-5-of-the-web-down-nearly-5-points-in-a-year/598175/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-24T15:00:28+00:00",
-   "summary": "WordPress fell to 38.4% of all websites as the share with no detected CMS rose to 33.0%. The post WordPress Drops To 38.4% Of The Web, Down Nearly 5 Points In A Year appeared first on Search Engine\u2026"
   },
   {
    "title": "How Does Google Get Its Information? 7 Ways (2026)",
