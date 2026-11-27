@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-26T21:29:17.930804+00:00",
+ "updated": "2026-11-27T08:26:43.347375+00:00",
  "items": [
+  {
+   "title": "Resolvary: Verified Work Emails From LinkedIn or a Company Domain, No Charge for Misses",
+   "link": "https://martech.zone/resolvary-verified-work-emails/",
+   "source": "Martech Zone",
+   "date": "2026-11-27T00:35:57+00:00",
+   "summary": "Sales teams usually buy contact data by the credit and find out later how many of the addresses worked. The bounces arrive after the campaign has gone out, and by then the sending domain has taken\u2026"
+  },
+  {
+   "title": "How Marketing Teams Plan a Compact Trade Show Presence: Booth Layout, Lead Capture, and Event ROI",
+   "link": "https://martech.zone/compact-trade-show-booth-planning/",
+   "source": "Martech Zone",
+   "date": "2026-11-26T23:44:24+00:00",
+   "summary": "Key Takeaways Start with one goal sentence before choosing hardware, then use an open entrance and clear zones in the 10\u00d710 for the hero wall, the demo, conversations, storage, and lead capture\u2026"
+  },
   {
    "title": "Replace WordPress Search With Cloudflare Workers and AI Search",
    "link": "https://martech.zone/replace-wordpress-search-with-cloudflare-workers/",
@@ -65,32 +79,18 @@
    "summary": "In our first study (August 2026), the sites most exposed to AI Overviews had lost 23.1% of their click-through rate (CTR) in 9 days. As the share of AI Overviews kept growing in France, and their\u2026"
   },
   {
-   "title": "OpenAI Isn\u2019t Planning Prompt-Level Reports For ChatGPT Ads via @sejournal, @MattGSouthern",
+   "title": "OpenAI Has No Plans For Prompt-Level ChatGPT Ads Reports via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
    "source": "Search Engine Journal",
    "date": "2026-11-26T04:15:54+00:00",
-   "summary": "OpenAI says ChatGPT advertisers can see aggregate results but won\u2019t get reports showing the prompts or intent behind their ads. The post OpenAI Isn\u2019t Planning Prompt-Level Reports For ChatGPT Ads\u2026"
+   "summary": "OpenAI says ChatGPT advertisers can see aggregate results but won\u2019t get reports showing the prompts or intent behind their ads. The post OpenAI Has No Plans For Prompt-Level ChatGPT Ads Reports\u2026"
   },
   {
-   "title": "Google Adds Pageburst & 11 Other Existing Bots To Its Crawler Docs via @sejournal, @MattGSouthern",
+   "title": "Google Documents Pageburst, An Ads Renderer That Ignores Robots.txt via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/",
    "source": "Search Engine Journal",
    "date": "2026-11-26T03:22:22+00:00",
-   "summary": "Google's crawler docs now list pageburst, which renders pages for Google Ads and ignores robots.txt, plus more existing user agents to check in server logs. The post Google Adds Pageburst & 11 Other\u2026"
-  },
-  {
-   "title": "ads.txt and sellers.json Checker: Verify Authorized Digital Sellers and Flag Problems",
-   "link": "https://martech.zone/ads-txt-sellers-json-checker/",
-   "source": "Martech Zone",
-   "date": "2026-11-26T01:38:56+00:00",
-   "summary": "Programmatic advertising depends on a simple trust chain: publishers publish ads.txt to declare which ad exchanges and supply-side platforms may sell their inventory, and each exchange publishes\u2026"
-  },
-  {
-   "title": "Wiring Webinars Into Your Marketing Stack: From Registration to Revenue",
-   "link": "https://martech.zone/wiring-webinars-into-your-marketing-stack/",
-   "source": "Martech Zone",
-   "date": "2026-11-25T21:34:16+00:00",
-   "summary": "Key Takeaways Capture webinar attribution from the start by tagging every promotion link with UTM parameters, keeping registration forms minimal, and storing explicit consent in your CRM. Sync three\u2026"
+   "summary": "Google's crawler docs now list pageburst, which renders pages for Google Ads and ignores robots.txt, plus more existing user agents to check in server logs. The post Google Documents Pageburst, An\u2026"
   },
   {
    "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time \u2013 Claude Opus Never Did via @sejournal, @slobodanmanic",
@@ -135,11 +135,11 @@
    "summary": "Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful. The post The latest AI-powered martech news and releases\u2026"
   },
   {
-   "title": "Is GEO Visibility Delivering Business Value, Or Are We Measuring The Wrong Outcome? via @sejournal, @billhunt",
+   "title": "AI Visibility Is Not A Recommendation \u2013 GEO Needs To Measure Decisions via @sejournal, @billhunt",
    "link": "https://www.searchenginejournal.com/is-geo-visibility-delivering-business-value-or-are-we-measuring-the-wrong-outcome/594064/",
    "source": "Search Engine Journal",
    "date": "2026-11-25T13:00:23+00:00",
-   "summary": "GEO visibility can hide gaps that keep buyers from shortlisting your brand. Decision Coverage shifts measurement toward buyer requirements and supporting evidence. The post Is GEO Visibility\u2026"
+   "summary": "GEO visibility can hide gaps that keep buyers from shortlisting your brand. Decision Coverage shifts measurement toward buyer requirements and supporting evidence. The post AI Visibility Is Not A\u2026"
   },
   {
    "title": "AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You",
