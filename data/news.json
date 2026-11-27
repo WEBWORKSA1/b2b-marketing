@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-27T08:26:43.347375+00:00",
+ "updated": "2026-11-27T21:15:13.343133+00:00",
  "items": [
+  {
+   "title": "Google\u2019s 404 Guide Says 410s Generally Get Crawled Less Often via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-27T20:26:24+00:00",
+   "summary": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing. The post Google\u2019s 404 Guide Says 410s Generally\u2026"
+  },
+  {
+   "title": "Google Adds Shopping Campaigns To Promotion Mode Eligibility via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/google-adds-shopping-campaigns-to-promotion-mode-eligibility/599279/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-27T19:57:15+00:00",
+   "summary": "Standard Shopping campaigns can use Promotion Mode to lower Target ROAS for short sales, with an optional extra daily budget, an updated help page says. The post Google Adds Shopping Campaigns To\u2026"
+  },
+  {
+   "title": "FirstPromoter: Affiliate and Referral Program Software for SaaS",
+   "link": "https://martech.zone/firstpromoter/",
+   "source": "Martech Zone",
+   "date": "2026-11-27T18:04:11+00:00",
+   "summary": "Key Takeaways FirstPromoter is affiliate, referral, and influencer program software for SaaS and subscription businesses. It is not a partner marketplace or network. Native billing integrations with\u2026"
+  },
+  {
+   "title": "Langify for Shopify: Translate and Localize Your Store",
+   "link": "https://martech.zone/langify-shopify/",
+   "source": "Martech Zone",
+   "date": "2026-11-27T16:08:37+00:00",
+   "summary": "Key Takeaways Langify is a Shopify translation and localization app, listed on the Shopify App Store since 2014, for merchants who want a multilingual storefront. Every plan includes unlimited\u2026"
+  },
+  {
+   "title": "Paid Search Has An AI Blind Spot \u2013 IAB Blueprint Says A Claim Is Not Credit via @sejournal, @gregjarboe",
+   "link": "https://www.searchenginejournal.com/paid-search-has-an-ai-blind-spot-iab-blueprint-says-a-claim-is-not-credit/597307/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-27T15:00:17+00:00",
+   "summary": "Paid search may be booking sales that AI assistants created. The IAB\u2019s new blueprint sets evidence, with four steps to test it in Google Ads. The post Paid Search Has An AI Blind Spot \u2013 IAB\u2026"
+  },
+  {
+   "title": "How to Build a Privacy-Conscious Marketing Data Stack",
+   "link": "https://martech.zone/how-to-build-a-privacy-conscious-marketing-data-stack/",
+   "source": "Martech Zone",
+   "date": "2026-11-27T14:01:00+00:00",
+   "summary": "Why Privacy Now Drives Marketing Decisions Every marketer today works inside a stricter data privacy landscape than five years ago. Regulators watch closely. Customers ask harder questions before\u2026"
+  },
+  {
+   "title": "SaaS Churn Rate Statistics and Benchmarks",
+   "link": "https://martech.zone/saas-churn-rate-statistics/",
+   "source": "Martech Zone",
+   "date": "2026-11-27T13:57:00+00:00",
+   "summary": "Key Takeaways SAAS churn is the share of existing customers or recurring revenue you lose in a period. New customers do not belong in that calculation. A single industry average hides the real\u2026"
+  },
+  {
+   "title": "Marketing Data: The Key to Stand Out in 2027",
+   "link": "https://martech.zone/why-marketing-data-is-key/",
+   "source": "Martech Zone",
+   "date": "2026-11-27T13:52:06+00:00",
+   "summary": "Key Takeaways Marketing data is how you decide who to reach, what to say, where to say it, and whether the work is paying off. Instinct is not a substitute. CMOs are putting a growing share of the\u2026"
+  },
+  {
+   "title": "Digital Communication Trends That Will Boost Your Business in 2027",
+   "link": "https://martech.zone/digital-communication-trends/",
+   "source": "Martech Zone",
+   "date": "2026-11-27T13:51:47+00:00",
+   "summary": "Key Takeaways Customers now treat messaging as a default way to deal with a business, not a side channel for alerts and receipts. RCS is adding rich, verified conversations to the native inbox, with\u2026"
+  },
+  {
+   "title": "B2B Podcasts Reach Buyers Search Can\u2019t \u2013 Where Most Shows Go Wrong",
+   "link": "https://www.searchenginejournal.com/b2b-podcast-growth-channel-search-cant-replace/596484/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-27T13:00:41+00:00",
+   "summary": "HubSpot's revenue grew as its blog traffic fell 80%. Here's how B2B podcasts help buyers notice, hear, trust, and name you, and where shows fail. The post B2B Podcasts Reach Buyers Search Can\u2019t \u2013\u2026"
+  },
+  {
+   "title": "9 AI Workflows That Turn Marketing Data Into Content AI Cites via @sejournal, @hethr_campbell",
+   "link": "https://www.searchenginejournal.com/9-ai-workflows-that-turn-marketing-data-into-content-ai-cites-recap/598061/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-27T08:45:12+00:00",
+   "summary": "A repeated customer question can point to a missing service page. CallRail\u2019s Ryann Hogan and Guru Media Hub\u2019s Jay Schwedelson explained how they chose what to publish and what to measure afterward.\u2026"
+  },
+  {
+   "title": "How To Speak the Language of Your Top SEO Stakeholders \u2014 Whiteboard Friday",
+   "link": "https://moz.com/blog/how-to-speak-stakeholder-language-whiteboard-friday",
+   "source": "Moz Blog",
+   "date": "2026-11-27T08:05:00+00:00",
+   "summary": "Are your SEO proposals getting lost in translation? In this week\u2019s episode of Whiteboard Friday, Helen discusses why traditional SEO language often falls short with senior leaders and how you can\u2026"
+  },
   {
    "title": "Resolvary: Verified Work Emails From LinkedIn or a Company Domain, No Charge for Misses",
    "link": "https://martech.zone/resolvary-verified-work-emails/",
@@ -16,20 +100,6 @@
    "summary": "Key Takeaways Start with one goal sentence before choosing hardware, then use an open entrance and clear zones in the 10\u00d710 for the hero wall, the demo, conversations, storage, and lead capture\u2026"
   },
   {
-   "title": "Replace WordPress Search With Cloudflare Workers and AI Search",
-   "link": "https://martech.zone/replace-wordpress-search-with-cloudflare-workers/",
-   "source": "Martech Zone",
-   "date": "2026-11-26T20:00:18+00:00",
-   "summary": "Back in May, a bot found the search box on Martech Zone and sent random words to it. Each request made WordPress run three unindexed database scans, and the server fell over\u2026"
-  },
-  {
-   "title": "Thanksgiving Marketing in 2026: History, Spending, and Business Impact",
-   "link": "https://martech.zone/thanksgiving-history-and-business-importance/",
-   "source": "Martech Zone",
-   "date": "2026-11-26T16:28:55+00:00",
-   "summary": "Happy Thanksgiving! Today, millions of Americans will sit down to a meal that traces back to a harvest feast in 1621, and by tomorrow morning many of them will be shopping. That pairing of gratitude\u2026"
-  },
-  {
    "title": "The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester",
    "link": "https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/",
    "source": "Search Engine Journal",
@@ -37,39 +107,11 @@
    "summary": "Competency questions, a 30-year-old knowledge engineering method, define which questions matter and what a correct answer is. The post The Missing Step In Prompt Tracking Was Written Down In 1995\u2026"
   },
   {
-   "title": "10 Hardware Gift Ideas for AI Enthusiasts: Home Office Picks for 2026",
-   "link": "https://martech.zone/ai-enthusiast-home-office-hardware-gift-ideas/",
-   "source": "Martech Zone",
-   "date": "2026-11-26T13:21:07+00:00",
-   "summary": "Tomorrow is Black Friday, followed by Cyber Monday, and if someone on your list spends nights running local models, wiring up agents, or tuning a home lab, the best gift isn't another gadget. It's\u2026"
-  },
-  {
    "title": "What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026 via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/what-seos-can-be-thankful-for-2026/598921/",
    "source": "Search Engine Journal",
    "date": "2026-11-26T13:00:22+00:00",
    "summary": "A Thanksgiving roundup of eight search changes from this year worth a thank-you, from AI visibility data and social reports to a back button policy. The post What SEOs Can Be Thankful For: 8 Wins To\u2026"
-  },
-  {
-   "title": "YouTube Marketing in 2027: How to Prepare Your Business for TV Screens, Shorts, and Shoppable Video",
-   "link": "https://martech.zone/youtube-marketing/",
-   "source": "Martech Zone",
-   "date": "2026-11-26T12:31:51+00:00",
-   "summary": "YouTube started as a place to share homemade clips. Heading into 2027, it is the most watched streaming service on American televisions, a short-form video network with 200 billion daily views, a\u2026"
-  },
-  {
-   "title": "Mobile Commerce Statistics and Design Considerations for 2027",
-   "link": "https://martech.zone/mobile-commerce-growth-statistics/",
-   "source": "Martech Zone",
-   "date": "2026-11-26T12:31:50+00:00",
-   "summary": "Mobile commerce (M) is no longer the growth channel retailers plan around. It is the channel\u2026"
-  },
-  {
-   "title": "Average Click-Through Rate by SERP Position in 2026: How AI Overviews Are Reshaping Organic Clicks",
-   "link": "https://martech.zone/serp-behavior-click-through-rates/",
-   "source": "Martech Zone",
-   "date": "2026-11-26T12:31:49+00:00",
-   "summary": "Ranking on page one has never guaranteed traffic, but the gap between a ranking and a visit has never been wider. Google search engine results pages (SERPs) now stack ads, AI Overviews, People Also\u2026"
   },
   {
    "title": "AI Overviews Cut CTR by \u221224.4% in France (3 Month Update)",
@@ -84,34 +126,6 @@
    "source": "Search Engine Journal",
    "date": "2026-11-26T04:15:54+00:00",
    "summary": "OpenAI says ChatGPT advertisers can see aggregate results but won\u2019t get reports showing the prompts or intent behind their ads. The post OpenAI Has No Plans For Prompt-Level ChatGPT Ads Reports\u2026"
-  },
-  {
-   "title": "Google Documents Pageburst, An Ads Renderer That Ignores Robots.txt via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-26T03:22:22+00:00",
-   "summary": "Google's crawler docs now list pageburst, which renders pages for Google Ads and ignores robots.txt, plus more existing user agents to check in server logs. The post Google Documents Pageburst, An\u2026"
-  },
-  {
-   "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time \u2013 Claude Opus Never Did via @sejournal, @slobodanmanic",
-   "link": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-25T20:00:32+00:00",
-   "summary": "AI models flagged a deal as suspicious 315 times, bought the fake anyway 137 times, and never asked the shopper about the deal. The post AI Shopping Agents Bought A Fake Deal 37% Of The Time \u2013\u2026"
-  },
-  {
-   "title": "Top Publisher League Tables For U.S. & U.K.",
-   "link": "https://www.searchenginejournal.com/top-publisher-league-tables-for-us-uk/598933/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-25T18:00:02+00:00",
-   "summary": "Monthly U.K. and U.S. leaderboards rank publishers on engagement, loyalty, and audience scale using Similarweb data. The post Top Publisher League Tables For U.S. & U.K. appeared first on Search\u2026"
-  },
-  {
-   "title": "ChatGPT Ads Hit 100,000 Advertisers \u2013 But Are They Seeing Results? via @sejournal, @brookeosmundson",
-   "link": "https://www.searchenginejournal.com/chatgpt-ads-are-growing-fast-but-are-advertisers-seeing-results/598052/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-25T15:00:31+00:00",
-   "summary": "Early ChatGPT Ads tests show why following leads through to a sale or qualified opportunity can help you decide whether to keep spending. The post ChatGPT Ads Hit 100,000 Advertisers \u2013 But Are They\u2026"
   },
   {
    "title": "The more AI can do, the more marketers need to know",
@@ -133,13 +147,6 @@
    "source": "MarTech",
    "date": "2026-11-25T13:02:00+00:00",
    "summary": "Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful. The post The latest AI-powered martech news and releases\u2026"
-  },
-  {
-   "title": "AI Visibility Is Not A Recommendation \u2013 GEO Needs To Measure Decisions via @sejournal, @billhunt",
-   "link": "https://www.searchenginejournal.com/is-geo-visibility-delivering-business-value-or-are-we-measuring-the-wrong-outcome/594064/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-25T13:00:23+00:00",
-   "summary": "GEO visibility can hide gaps that keep buyers from shortlisting your brand. Decision Coverage shifts measurement toward buyer requirements and supporting evidence. The post AI Visibility Is Not A\u2026"
   },
   {
    "title": "AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You",
@@ -329,13 +336,6 @@
    "source": "Moz Blog",
    "date": "2026-11-03T08:00:00+00:00",
    "summary": "Is your content strategy ready for the newest evolution of search? Learn an easy 5-step workflow to track AI visibility and optimize your content using Moz Pro\u2019s AI Research toolkit."
-  },
-  {
-   "title": "How To Analyze Server Logs for AI Search",
-   "link": "https://moz.com/blog/analyze-log-files-ai-search",
-   "source": "Moz Blog",
-   "date": "2026-10-29T07:00:00+00:00",
-   "summary": "Learn how to find AI crawler requests in server logs and fix pages that crawlers cannot read"
   },
   {
    "title": "2026 Marketing Technology Landscape Supergraphic: Peak Martech Achieved! (Maybe)",
