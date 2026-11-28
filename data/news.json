@@ -1,33 +1,54 @@
 {
- "updated": "2026-11-27T21:15:13.343133+00:00",
+ "updated": "2026-11-28T07:45:10.073606+00:00",
  "items": [
   {
-   "title": "Google\u2019s 404 Guide Says 410s Generally Get Crawled Less Often via @sejournal, @MattGSouthern",
+   "title": "Is Your Domain Ready for the Inbox? The Complete Guide to Email Authentication and a Free Health Check",
+   "link": "https://martech.zone/what-is-email-authentication/",
+   "source": "Martech Zone",
+   "date": "2026-11-28T00:18:57+00:00",
+   "summary": "Run the free health check to audit SPF, DKIM, and DMARC records. Use the provided builders to fix configuration errors and prepare for strict mailbox provider sender requirements."
+  },
+  {
+   "title": "Know What To Fix Before Scaling AI Agents For AEO In 2027 via @sejournal, @hethr_campbell",
+   "link": "https://www.searchenginejournal.com/know-what-to-fix-before-scaling-ai-agents-for-aeo-in-2027/598837/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-27T22:41:34+00:00",
+   "summary": "Join us on December 2 to learn where enterprise AI agent programs stall and how to choose your AEO data, measurement, and investment priorities for 2027. The post Know What To Fix Before Scaling AI\u2026"
+  },
+  {
+   "title": "Marketing Data Decay: Why Half Your Database Goes Stale Without Warning",
+   "link": "https://martech.zone/marketing-data-decay-by-source/",
+   "source": "Martech Zone",
+   "date": "2026-11-27T22:25:01+00:00",
+   "summary": "Split records into obligated and volunteered categories to expose silent decay, then set refresh cadences per source. Follow Brandignity\u2019s sequence to audit origins and prevent enrichment waste\u2026"
+  },
+  {
+   "title": "Google Moves 404 Guidance To Search Central, Adds A 410 Crawl Note via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-404-guide-410-crawl-frequency/599287/",
    "source": "Search Engine Journal",
    "date": "2026-11-27T20:26:24+00:00",
-   "summary": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing. The post Google\u2019s 404 Guide Says 410s Generally\u2026"
+   "summary": "Google moved its 404 guidance into Search Central and now says 410s generally get crawled less often, while treating both codes the same for indexing. The post Google Moves 404 Guidance To Search\u2026"
   },
   {
-   "title": "Google Adds Shopping Campaigns To Promotion Mode Eligibility via @sejournal, @MattGSouthern",
+   "title": "Google Says Promotion Mode Now Supports Shopping Campaigns via @sejournal, @MattGSouthern",
    "link": "https://www.searchenginejournal.com/google-adds-shopping-campaigns-to-promotion-mode-eligibility/599279/",
    "source": "Search Engine Journal",
    "date": "2026-11-27T19:57:15+00:00",
-   "summary": "Standard Shopping campaigns can use Promotion Mode to lower Target ROAS for short sales, with an optional extra daily budget, an updated help page says. The post Google Adds Shopping Campaigns To\u2026"
+   "summary": "Standard Shopping campaigns can use Promotion Mode to lower Target ROAS for short sales, with an optional extra daily budget, an updated help page says. The post Google Says Promotion Mode Now\u2026"
   },
   {
    "title": "FirstPromoter: Affiliate and Referral Program Software for SaaS",
    "link": "https://martech.zone/firstpromoter/",
    "source": "Martech Zone",
    "date": "2026-11-27T18:04:11+00:00",
-   "summary": "Key Takeaways FirstPromoter is affiliate, referral, and influencer program software for SaaS and subscription businesses. It is not a partner marketplace or network. Native billing integrations with\u2026"
+   "summary": "See how FirstPromoter tracks affiliate revenue across Stripe, Paddle, and Chargebee using automatic renewal detection. Compare multi-tier commission structures with fraud controls to manage complex\u2026"
   },
   {
    "title": "Langify for Shopify: Translate and Localize Your Store",
    "link": "https://martech.zone/langify-shopify/",
    "source": "Martech Zone",
    "date": "2026-11-27T16:08:37+00:00",
-   "summary": "Key Takeaways Langify is a Shopify translation and localization app, listed on the Shopify App Store since 2014, for merchants who want a multilingual storefront. Every plan includes unlimited\u2026"
+   "summary": "Compare DeepL and Google Cloud translation engines with Shopify Markets to localize stores across 20 languages. Assess SEO hreflang behaviors, third-party app coverage, and browser-language\u2026"
   },
   {
    "title": "Paid Search Has An AI Blind Spot \u2013 IAB Blueprint Says A Claim Is Not Credit via @sejournal, @gregjarboe",
@@ -41,28 +62,28 @@
    "link": "https://martech.zone/how-to-build-a-privacy-conscious-marketing-data-stack/",
    "source": "Martech Zone",
    "date": "2026-11-27T14:01:00+00:00",
-   "summary": "Why Privacy Now Drives Marketing Decisions Every marketer today works inside a stricter data privacy landscape than five years ago. Regulators watch closely. Customers ask harder questions before\u2026"
+   "summary": "Apply data minimization and consent management to align your stack with GDPR and CCPA. Build a privacy-first approach using first-party data to turn compliance into a competitive advantage."
   },
   {
    "title": "SaaS Churn Rate Statistics and Benchmarks",
    "link": "https://martech.zone/saas-churn-rate-statistics/",
    "source": "Martech Zone",
    "date": "2026-11-27T13:57:00+00:00",
-   "summary": "Key Takeaways SAAS churn is the share of existing customers or recurring revenue you lose in a period. New customers do not belong in that calculation. A single industry average hides the real\u2026"
+   "summary": "Segment your metrics by ARPA and ARR using ChartMogul October 2026 data to beat the 5.6% median churn. Apply SaaS Capital benchmarks to prioritize onboarding and pricing fixes across high-churn\u2026"
   },
   {
    "title": "Marketing Data: The Key to Stand Out in 2027",
    "link": "https://martech.zone/why-marketing-data-is-key/",
    "source": "Martech Zone",
    "date": "2026-11-27T13:52:06+00:00",
-   "summary": "Key Takeaways Marketing data is how you decide who to reach, what to say, where to say it, and whether the work is paying off. Instinct is not a substitute. CMOs are putting a growing share of the\u2026"
+   "summary": "Use Gartner and Twilio data to fix fragmented marketing data and scale AI. Collect purposeful signals to improve targeting, support omnichannel consistency, and drive actionable customer decisions."
   },
   {
    "title": "Digital Communication Trends That Will Boost Your Business in 2027",
    "link": "https://martech.zone/digital-communication-trends/",
    "source": "Martech Zone",
    "date": "2026-11-27T13:51:47+00:00",
-   "summary": "Key Takeaways Customers now treat messaging as a default way to deal with a business, not a side channel for alerts and receipts. RCS is adding rich, verified conversations to the native inbox, with\u2026"
+   "summary": "Apply RCS verified identities and real-time personalization to cut the 71% purchase abandonment penalty. Review GSMA and Twilio data to build hybrid messaging paths that preserve customer trust in\u2026"
   },
   {
    "title": "B2B Podcasts Reach Buyers Search Can\u2019t \u2013 Where Most Shows Go Wrong",
@@ -77,27 +98,6 @@
    "source": "Search Engine Journal",
    "date": "2026-11-27T08:45:12+00:00",
    "summary": "A repeated customer question can point to a missing service page. CallRail\u2019s Ryann Hogan and Guru Media Hub\u2019s Jay Schwedelson explained how they chose what to publish and what to measure afterward.\u2026"
-  },
-  {
-   "title": "How To Speak the Language of Your Top SEO Stakeholders \u2014 Whiteboard Friday",
-   "link": "https://moz.com/blog/how-to-speak-stakeholder-language-whiteboard-friday",
-   "source": "Moz Blog",
-   "date": "2026-11-27T08:05:00+00:00",
-   "summary": "Are your SEO proposals getting lost in translation? In this week\u2019s episode of Whiteboard Friday, Helen discusses why traditional SEO language often falls short with senior leaders and how you can\u2026"
-  },
-  {
-   "title": "Resolvary: Verified Work Emails From LinkedIn or a Company Domain, No Charge for Misses",
-   "link": "https://martech.zone/resolvary-verified-work-emails/",
-   "source": "Martech Zone",
-   "date": "2026-11-27T00:35:57+00:00",
-   "summary": "Sales teams usually buy contact data by the credit and find out later how many of the addresses worked. The bounces arrive after the campaign has gone out, and by then the sending domain has taken\u2026"
-  },
-  {
-   "title": "How Marketing Teams Plan a Compact Trade Show Presence: Booth Layout, Lead Capture, and Event ROI",
-   "link": "https://martech.zone/compact-trade-show-booth-planning/",
-   "source": "Martech Zone",
-   "date": "2026-11-26T23:44:24+00:00",
-   "summary": "Key Takeaways Start with one goal sentence before choosing hardware, then use an open entrance and clear zones in the 10\u00d710 for the hero wall, the demo, conversations, storage, and lead capture\u2026"
   },
   {
    "title": "The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester",
@@ -119,13 +119,6 @@
    "source": "Ahrefs Blog",
    "date": "2026-11-26T11:04:41+00:00",
    "summary": "In our first study (August 2026), the sites most exposed to AI Overviews had lost 23.1% of their click-through rate (CTR) in 9 days. As the share of AI Overviews kept growing in France, and their\u2026"
-  },
-  {
-   "title": "OpenAI Has No Plans For Prompt-Level ChatGPT Ads Reports via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-26T04:15:54+00:00",
-   "summary": "OpenAI says ChatGPT advertisers can see aggregate results but won\u2019t get reports showing the prompts or intent behind their ads. The post OpenAI Has No Plans For Prompt-Level ChatGPT Ads Reports\u2026"
   },
   {
    "title": "The more AI can do, the more marketers need to know",
@@ -336,6 +329,13 @@
    "source": "Moz Blog",
    "date": "2026-11-03T08:00:00+00:00",
    "summary": "Is your content strategy ready for the newest evolution of search? Learn an easy 5-step workflow to track AI visibility and optimize your content using Moz Pro\u2019s AI Research toolkit."
+  },
+  {
+   "title": "How To Analyze Server Logs for AI Search",
+   "link": "https://moz.com/blog/analyze-log-files-ai-search",
+   "source": "Moz Blog",
+   "date": "2026-10-29T07:00:00+00:00",
+   "summary": "Learn how to find AI crawler requests in server logs and fix pages that crawlers cannot read"
   },
   {
    "title": "2026 Marketing Technology Landscape Supergraphic: Peak Martech Achieved! (Maybe)",
