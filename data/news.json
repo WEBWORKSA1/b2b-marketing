@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-28T07:45:10.073606+00:00",
+ "updated": "2026-11-28T19:59:26.539560+00:00",
  "items": [
+  {
+   "title": "Understanding AI Watermarking: Who Owns Your Words?",
+   "link": "https://martech.zone/ai-watermarks/",
+   "source": "Martech Zone",
+   "date": "2026-11-28T18:37:35+00:00",
+   "summary": "AI text watermarking distinguishes edit-based Unicode marks from sampling biases like SynthID-Text. The Martech Zone Watermarks plugin strips these markers from drafts using constrained paraphrasing\u2026"
+  },
+  {
+   "title": "Core Updates, Ranking Feedback, Google-Agent & WordPress \u2013 SEO Pulse via @sejournal, @MattGSouthern",
+   "link": "https://www.searchenginejournal.com/seo-pulse-core-updates-ranking-feedback-google-agent-wordpress/599171/",
+   "source": "Search Engine Journal",
+   "date": "2026-11-28T13:00:00+00:00",
+   "summary": "This week\u2019s SEO Pulse covers Google\u2019s core updates and ranking feedback, Google-Agent access, WordPress\u2019s shrinking share, and Salesforce\u2019s take on SEO. The post Core Updates, Ranking Feedback,\u2026"
+  },
   {
    "title": "Is Your Domain Ready for the Inbox? The Complete Guide to Email Authentication and a Free Health Check",
    "link": "https://martech.zone/what-is-email-authentication/",
@@ -79,18 +93,11 @@
    "summary": "Use Gartner and Twilio data to fix fragmented marketing data and scale AI. Collect purposeful signals to improve targeting, support omnichannel consistency, and drive actionable customer decisions."
   },
   {
-   "title": "Digital Communication Trends That Will Boost Your Business in 2027",
-   "link": "https://martech.zone/digital-communication-trends/",
-   "source": "Martech Zone",
-   "date": "2026-11-27T13:51:47+00:00",
-   "summary": "Apply RCS verified identities and real-time personalization to cut the 71% purchase abandonment penalty. Review GSMA and Twilio data to build hybrid messaging paths that preserve customer trust in\u2026"
-  },
-  {
-   "title": "B2B Podcasts Reach Buyers Search Can\u2019t \u2013 Where Most Shows Go Wrong",
+   "title": "Why Podcasts Are The B2B Growth Channel Search Can\u2019t Replace",
    "link": "https://www.searchenginejournal.com/b2b-podcast-growth-channel-search-cant-replace/596484/",
    "source": "Search Engine Journal",
    "date": "2026-11-27T13:00:41+00:00",
-   "summary": "HubSpot's revenue grew as its blog traffic fell 80%. Here's how B2B podcasts help buyers notice, hear, trust, and name you, and where shows fail. The post B2B Podcasts Reach Buyers Search Can\u2019t \u2013\u2026"
+   "summary": "HubSpot's revenue grew as its blog traffic fell 80%. Here's how B2B podcasts help buyers notice, hear, trust, and name you, and where shows fail. The post Why Podcasts Are The B2B Growth Channel\u2026"
   },
   {
    "title": "9 AI Workflows That Turn Marketing Data Into Content AI Cites via @sejournal, @hethr_campbell",
@@ -100,6 +107,13 @@
    "summary": "A repeated customer question can point to a missing service page. CallRail\u2019s Ryann Hogan and Guru Media Hub\u2019s Jay Schwedelson explained how they chose what to publish and what to measure afterward.\u2026"
   },
   {
+   "title": "How To Speak the Language of Your Top SEO Stakeholders \u2014 Whiteboard Friday",
+   "link": "https://moz.com/blog/how-to-speak-stakeholder-language-whiteboard-friday",
+   "source": "Moz Blog",
+   "date": "2026-11-27T08:05:00+00:00",
+   "summary": "Are your SEO proposals getting lost in translation? In this week\u2019s episode of Whiteboard Friday, Helen discusses why traditional SEO language often falls short with senior leaders and how you can\u2026"
+  },
+  {
    "title": "The Missing Step In Prompt Tracking Was Written Down In 1995 via @sejournal, @DuaneForrester",
    "link": "https://www.searchenginejournal.com/the-missing-step-in-prompt-tracking-was-written-down-in-1995/598461/",
    "source": "Search Engine Journal",
@@ -107,39 +121,11 @@
    "summary": "Competency questions, a 30-year-old knowledge engineering method, define which questions matter and what a correct answer is. The post The Missing Step In Prompt Tracking Was Written Down In 1995\u2026"
   },
   {
-   "title": "What SEOs Can Be Thankful For: 8 Wins To Celebrate In 2026 via @sejournal, @MattGSouthern",
-   "link": "https://www.searchenginejournal.com/what-seos-can-be-thankful-for-2026/598921/",
-   "source": "Search Engine Journal",
-   "date": "2026-11-26T13:00:22+00:00",
-   "summary": "A Thanksgiving roundup of eight search changes from this year worth a thank-you, from AI visibility data and social reports to a back button policy. The post What SEOs Can Be Thankful For: 8 Wins To\u2026"
-  },
-  {
    "title": "AI Overviews Cut CTR by \u221224.4% in France (3 Month Update)",
    "link": "https://ahrefs.com/blog/ai-overviews-ctr-france/",
    "source": "Ahrefs Blog",
    "date": "2026-11-26T11:04:41+00:00",
    "summary": "In our first study (August 2026), the sites most exposed to AI Overviews had lost 23.1% of their click-through rate (CTR) in 9 days. As the share of AI Overviews kept growing in France, and their\u2026"
-  },
-  {
-   "title": "The more AI can do, the more marketers need to know",
-   "link": "https://martech.org/the-more-ai-can-do-the-more-marketers-need-to-know/",
-   "source": "MarTech",
-   "date": "2026-11-25T13:18:00+00:00",
-   "summary": "Faster execution comes with new risks. Here's why marketers need strategic thinking, AI guardrails, and technical knowledge to make better decisions. The post The more AI can do, the more marketers\u2026"
-  },
-  {
-   "title": "How to create expert content your competitors can\u2019t copy",
-   "link": "https://martech.org/how-to-create-expert-content-your-competitors-cant-copy/",
-   "source": "MarTech",
-   "date": "2026-11-25T13:18:00+00:00",
-   "summary": "Use video interviews to capture the professional judgment, real customer stories, and personal perspectives that AI cannot provide. The post How to create expert content your competitors can\u2019t copy\u2026"
-  },
-  {
-   "title": "The latest AI-powered martech news and releases",
-   "link": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-   "source": "MarTech",
-   "date": "2026-11-25T13:02:00+00:00",
-   "summary": "Does anyone like the chatbots on B2B websites? They're nothing more than over-powered search bars, but somehow nowhere near as useful. The post The latest AI-powered martech news and releases\u2026"
   },
   {
    "title": "AI Sentiment Analysis for Brands: How to Track and Improve What AI Says About You",
@@ -161,41 +147,6 @@
    "source": "Ahrefs Blog",
    "date": "2026-11-24T14:28:11+00:00",
    "summary": "That\u2019s true, but it\u2019s only part of the answer. Google search gets its information in seven main ways: Below, I\u2019ll show you how each one works, with proof, and what you can do (if anything) to\u2026"
-  },
-  {
-   "title": "What you need to know about ChatGPT ads vs. Google Ads",
-   "link": "https://martech.org/what-you-need-to-know-about-chatgpt-ads-vs-google-ads/",
-   "source": "MarTech",
-   "date": "2026-11-24T13:55:41+00:00",
-   "summary": "B2B tests show comparable CPCs to Google but weaker engagement, limited conversions, and less control of targeting and optimization. The post What you need to know about ChatGPT ads vs. Google Ads\u2026"
-  },
-  {
-   "title": "3 ways neglecting your brand undermines sales",
-   "link": "https://martech.org/3-ways-neglecting-your-brand-undermines-sales/",
-   "source": "MarTech",
-   "date": "2026-11-24T13:49:37+00:00",
-   "summary": "Skipping brand building doesn't save money. It creates marketing debt that makes generating sales harder and costlier when you need them most. The post 3 ways neglecting your brand undermines sales\u2026"
-  },
-  {
-   "title": "How AI is re-shaping mid-market marketing",
-   "link": "https://martech.org/how-ai-is-re-shaping-mid-market-marketing/",
-   "source": "MarTech",
-   "date": "2026-11-23T14:25:11+00:00",
-   "summary": "AI should give mid-market teams a boost as a force multiplier and eliminator of busywork. But is it? The post How AI is re-shaping mid-market marketing appeared first on MarTech ."
-  },
-  {
-   "title": "How to vet AI capabilities during martech RFPs",
-   "link": "https://martech.org/how-to-vet-ai-capabilities-during-martech-rfps/",
-   "source": "MarTech",
-   "date": "2026-11-23T13:19:00+00:00",
-   "summary": "Six questions can tell you whether a vendor\u2019s \u201cAI\u201d is genuinely new or just old automation with a fresh label. The post How to vet AI capabilities during martech RFPs appeared first on MarTech ."
-  },
-  {
-   "title": "What\u2019s missing from your 2027 marketing AI budget?",
-   "link": "https://martech.org/whats-missing-from-your-2027-marketing-ai-budget/",
-   "source": "MarTech",
-   "date": "2026-11-23T12:25:00+00:00",
-   "summary": "Buying AI tools is easy. Getting teams to use them is harder. Here's how to fund the people and processes that turn AI spending into results. The post What\u2019s missing from your 2027 marketing AI\u2026"
   },
   {
    "title": "How to Claim, Verify, and Manage Google Business Profiles at Scale",
@@ -329,13 +280,6 @@
    "source": "Moz Blog",
    "date": "2026-11-03T08:00:00+00:00",
    "summary": "Is your content strategy ready for the newest evolution of search? Learn an easy 5-step workflow to track AI visibility and optimize your content using Moz Pro\u2019s AI Research toolkit."
-  },
-  {
-   "title": "How To Analyze Server Logs for AI Search",
-   "link": "https://moz.com/blog/analyze-log-files-ai-search",
-   "source": "Moz Blog",
-   "date": "2026-10-29T07:00:00+00:00",
-   "summary": "Learn how to find AI crawler requests in server logs and fix pages that crawlers cannot read"
   },
   {
    "title": "2026 Marketing Technology Landscape Supergraphic: Peak Martech Achieved! (Maybe)",

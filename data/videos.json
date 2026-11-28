@@ -1,11 +1,59 @@
 {
- "updated": "2026-11-27T21:15:17.624789+00:00",
+ "updated": "2026-11-28T19:59:32.743768+00:00",
  "items": [
+  {
+   "id": "oFlEPZH7NWs",
+   "title": "You Can\u2019t Control Your Brand Story Anymore",
+   "channel": "Neil Patel",
+   "date": "2026-11-28T19:06:21+00:00"
+  },
+  {
+   "id": "rd2zOa9wZl4",
+   "title": "Why Your Train Is Always Delayed",
+   "channel": "The Hustle ",
+   "date": "2026-11-28T15:00:32+00:00"
+  },
+  {
+   "id": "6cK7yh1CpxM",
+   "title": "Stop Judging ChatGPT Ads by Clicks",
+   "channel": "Neil Patel",
+   "date": "2026-11-28T13:05:17+00:00"
+  },
+  {
+   "id": "qRJLsaZ4Glw",
+   "title": "Businesses Afraid of AI Will Pay for It",
+   "channel": "Neil Patel",
+   "date": "2026-11-27T19:05:20+00:00"
+  },
+  {
+   "id": "Zv486gp_NHg",
+   "title": "Don't Turn On AI Max Until You Do This",
+   "channel": "Neil Patel",
+   "date": "2026-11-27T13:04:19+00:00"
+  },
+  {
+   "id": "zHQiDOScwI4",
+   "title": "Stop Paying for AI That Can\u2019t Prove Itself",
+   "channel": "Neil Patel",
+   "date": "2026-11-26T19:02:02+00:00"
+  },
+  {
+   "id": "x-N-TKmgms4",
+   "title": "Why Xiaomi Products Are Everywhere",
+   "channel": "The Hustle ",
+   "date": "2026-11-24T21:00:06+00:00"
+  },
   {
    "id": "ZiBfawBKX_0",
    "title": "When to use an MCP server vs CLI with DevTools for agents",
    "channel": "Chrome for Developers",
    "date": "2026-11-24T18:09:28+00:00"
+  },
+  {
+   "id": "uuLYON-N0oU",
+   "title": "How Salesforce Creates Headless Agents With AIforce | Dreamforce 2026",
+   "channel": "Salesforce Product Center",
+   "date": "2026-11-24T15:00:26+00:00"
   },
   {
    "id": "Zk2g7NGWGgQ",
@@ -30,6 +78,168 @@
    "title": "The browser already won, we just haven\u2019t realized it yet",
    "channel": "Chrome for Developers",
    "date": "2026-11-23T20:52:44+00:00"
+  },
+  {
+   "id": "L09H5veLCEE",
+   "title": "Brewing an Espresso vs. Building an AI Agent: Which Is Faster?",
+   "channel": "Gong.io",
+   "date": "2026-11-23T20:00:17+00:00"
+  },
+  {
+   "id": "4VMipTb6Yz4",
+   "title": "How Higher Logic Uses Gong Agents",
+   "channel": "Gong.io",
+   "date": "2026-11-23T14:00:21+00:00"
+  },
+  {
+   "id": "jKSkOfbvXyA",
+   "title": "Automate Sales Handoffs with Gong AI Agents // Gong on Gong",
+   "channel": "Gong.io",
+   "date": "2026-11-20T20:45:10+00:00"
+  },
+  {
+   "id": "tXZhoBOlzzY",
+   "title": "Salesforce\u2019s proactive in-meeting support agent",
+   "channel": "Salesforce Product Center",
+   "date": "2026-11-20T17:27:13+00:00"
+  },
+  {
+   "id": "j4fw-n7xxc4",
+   "title": "How One Brand Quietly Conquered Everything We Use",
+   "channel": "The Hustle ",
+   "date": "2026-11-19T20:00:24+00:00"
+  },
+  {
+   "id": "BsVtVwfIC5w",
+   "title": "Copilotforce Demo | Expanding our partnership with @Microsoft",
+   "channel": "Salesforce Product Center",
+   "date": "2026-11-19T16:47:09+00:00"
+  },
+  {
+   "id": "dBbUhiSqRoE",
+   "title": "A Day in the Life at Gong: Meet Our Director of Product Writing",
+   "channel": "Gong.io",
+   "date": "2026-11-18T19:05:17+00:00"
+  },
+  {
+   "id": "Fk7nWgg2Dms",
+   "title": "Revenue Cloud + Slackbot: Quote-to-Close Deal Approvals in @Slackhq",
+   "channel": "Salesforce Product Center",
+   "date": "2026-11-18T11:00:09+00:00"
+  },
+  {
+   "id": "pQ4LS2ClmBI",
+   "title": "Sales Planning, Programs, Maps & Spiff | Salesforce",
+   "channel": "Salesforce Product Center",
+   "date": "2026-11-17T19:24:24+00:00"
+  },
+  {
+   "id": "xRkS9a9Wv7A",
+   "title": "The New Decision Layer: How Brands Get Chosen by AI",
+   "channel": "Semrush Live",
+   "date": "2026-11-17T10:30:06+00:00"
+  },
+  {
+   "id": "7C3t7TizogU",
+   "title": "The Future of Agentic Web and Commerce",
+   "channel": "Semrush Live",
+   "date": "2026-11-17T10:29:59+00:00"
+  },
+  {
+   "id": "00BGA6MaH_M",
+   "title": "The 5 Stages of Grief With AI. Stop grieving, start dancing",
+   "channel": "Semrush Live",
+   "date": "2026-11-17T10:29:48+00:00"
+  },
+  {
+   "id": "QGgWeN4XSv0",
+   "title": "The Enterprise Reset: What Marketing Leaders Are Changing Now",
+   "channel": "Semrush Live",
+   "date": "2026-11-17T10:29:37+00:00"
+  },
+  {
+   "id": "etfxPmf7pQ8",
+   "title": "How the AI Economy Is Rewriting Brand Discovery",
+   "channel": "Semrush Live",
+   "date": "2026-11-17T10:29:31+00:00"
+  },
+  {
+   "id": "0Jwpln92ro4",
+   "title": "Gong AI Data Extractor: Automate CRM Updates With AI",
+   "channel": "Gong.io",
+   "date": "2026-11-16T16:00:09+00:00"
+  },
+  {
+   "id": "QuLzu1tlLyA",
+   "title": "Why Is China Buying Brands That Are Losing Money?",
+   "channel": "The Hustle ",
+   "date": "2026-11-14T18:00:28+00:00"
+  },
+  {
+   "id": "t_YB2txQRFQ",
+   "title": "He\u2019s Betting Against Uber\u2019s Entire Business Model",
+   "channel": "The Hustle ",
+   "date": "2026-11-12T20:00:07+00:00"
+  },
+  {
+   "id": "SwB4Vocswiw",
+   "title": "How to Track Brand Visibility in Moz AI Visibility",
+   "channel": "Moz",
+   "date": "2026-11-10T20:49:50+00:00"
+  },
+  {
+   "id": "laDB9DFAlYs",
+   "title": "How To Discover Citation Opportunities in Moz AI Visibility",
+   "channel": "Moz",
+   "date": "2026-11-10T20:00:35+00:00"
+  },
+  {
+   "id": "KANJF_e6huw",
+   "title": "How to Track Brand Sentiment in Moz AI Visibility",
+   "channel": "Moz",
+   "date": "2026-11-10T19:31:51+00:00"
+  },
+  {
+   "id": "51QW2f4W9-k",
+   "title": "How to Set Up A Moz AI Visibility Dashboard",
+   "channel": "Moz",
+   "date": "2026-11-10T18:48:34+00:00"
+  },
+  {
+   "id": "oWrVGjks_cI",
+   "title": "AI Discoverability, Pages by Type, doubled API unit limits, and more (September 2026)",
+   "channel": "Ahrefs Product Updates",
+   "date": "2026-10-28T05:40:26+00:00"
+  },
+  {
+   "id": "iO9QIMFzwJ8",
+   "title": "Track Brand Visibility, Citations, and Sentiment with Moz AI Explorer",
+   "channel": "Moz",
+   "date": "2026-10-13T17:30:27+00:00"
+  },
+  {
+   "id": "4y4yf2ivt5w",
+   "title": "Adaptive traffic model, entity matching in Brand Radar, and more (July\u2013August 2026)",
+   "channel": "Ahrefs Product Updates",
+   "date": "2026-09-28T14:39:39+00:00"
+  },
+  {
+   "id": "LzVNPwObvRY",
+   "title": "Firehose launch, spoofed bots in Bot Analytics, and more (June 2026)",
+   "channel": "Ahrefs Product Updates",
+   "date": "2026-07-30T16:42:24+00:00"
+  },
+  {
+   "id": "UJR9N8wWFOU",
+   "title": "Agent B, new AI indexes in Brand Radar, and more (May 2026)",
+   "channel": "Ahrefs Product Updates",
+   "date": "2026-06-25T11:15:39+00:00"
+  },
+  {
+   "id": "FVpfE8SGa_w",
+   "title": "Grok in Brand Radar, bigger API limits, and more (April 2026)",
+   "channel": "Ahrefs Product Updates",
+   "date": "2026-05-28T13:28:12+00:00"
   }
  ]
 }
